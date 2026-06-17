@@ -18,6 +18,5 @@ Sistema inteligente de optimización logística desarrollado con Python y Stream
 
 ## Ejecución local
 
-```bash
 pip install -r requirements.txt
 streamlit run app.py
