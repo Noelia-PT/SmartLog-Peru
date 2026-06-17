@@ -1,0 +1,2001 @@
+ID_Nodo,Ubicacion,Especialidad,X,Y
+A_1,Callao (Terminal),Estacion de Camiones,-12.046,-77.126
+A_2,Ica,Colchones,-11.187,-70.9885
+A_3,Arequipa,Electrodomesticos,-10.5801,-70.5856
+A_4,Ayacucho,Repuestos Automotrices,-17.5107,-76.813
+A_5,Miraflores,Herramientas,-3.8,-74.6238
+A_6,Huancayo,Juguetes,-8.4174,-75.3295
+A_7,Ayacucho,Ropa Deportiva,-16.0688,-80.4202
+A_8,San Isidro,Calzado,-10.0522,-78.1932
+A_9,Iquitos,Electronica de Consumo,-10.8553,-78.0369
+A_10,San Isidro,Libros,-6.9344,-75.1097
+A_11,Arequipa,Muebles de Oficina,-15.6906,-69.0287
+A_12,Iquitos,Instrumentos Musicales,-11.4387,-80.0265
+A_13,Chiclayo,Camaras,-17.1427,-71.5148
+A_14,Trujillo,Celulares,-12.887,-72.1623
+A_15,Cajamarca,Linea Blanca,-3.7599,-74.8893
+A_16,Piura,Insumos Medicos,-8.6277,-80.5947
+A_17,Miraflores,Textiles,-13.8189,-72.3588
+A_18,Chiclayo,Alimentos Secos,-11.3966,-71.2248
+A_19,San Isidro,Cereales,-8.0939,-71.2524
+A_20,Chiclayo,Bebidas,-15.5504,-70.1385
+A_21,San Isidro,Neumaticos,-14.3099,-75.1211
+A_22,Huaraz,Pinturas,-9.2115,-80.1196
+A_23,Puno,Ferreteria,-13.592,-80.7019
+A_24,San Isidro,Iluminacion,-16.2024,-79.6184
+A_25,Pucallpa,Camping,-11.2278,-80.1646
+A_26,Tacna,Papeleria,-7.2564,-74.007
+A_27,Cusco,Materiales de Construccion,-3.6711,-75.4475
+A_28,Chimbote,Jardineria,-4.1002,-74.6353
+A_29,Ica,Mascotas,-11.9146,-79.4607
+A_30,San Isidro,Belleza,-16.6437,-79.3568
+A_31,Cusco,Relojeria,-10.0946,-77.4747
+A_32,Cusco,Bolsos,-15.9159,-69.28
+A_33,Iquitos,Lentes,-12.3434,-78.2698
+A_34,Chiclayo,Arte,-13.961,-77.0033
+A_35,Ayacucho,Pesca,-17.5144,-73.2749
+A_36,Ica,Baterias,-5.2873,-73.725
+A_37,Ayacucho,Computo,-7.0455,-70.6713
+A_38,Tarapoto,Audio Profesional,-6.9697,-71.7794
+A_39,Tacna,Seguridad Industrial,-4.9702,-77.0885
+A_40,Chiclayo,Cafe,-11.7634,-69.8536
+A_41,Huaraz,Cacao,-9.9232,-70.3568
+A_42,Huancayo,Vinos,-13.8045,-75.0839
+A_43,Arequipa,Equipos de Gimnasio,-13.2702,-77.4243
+A_44,Cusco,Drones,-12.0485,-71.4547
+A_45,Tacna,Bicicletas Electricas,-9.5692,-78.5897
+A_46,San Isidro,Software,-6.0801,-71.3911
+A_47,Tarapoto,Paneles Solares,-4.3488,-71.6533
+A_48,Piura,Motores,-3.3019,-78.9687
+A_49,Cercado de Lima,Quimicos,-7.1342,-70.8218
+A_50,Tacna,Vidrios,-13.4133,-76.7803
+A_51,Piura,Material Quirurgico,-12.1169,-80.33
+A_52,Arequipa,Medicamentos,-9.3425,-69.9393
+A_53,Trujillo,Vacunas,-15.8315,-69.4811
+A_54,Cercado de Lima,Alimentos Congelados,-5.8972,-69.9172
+A_55,Huancayo,Frutas,-7.9235,-76.753
+A_56,Cusco,Verduras,-5.757,-74.0343
+A_57,San Isidro,Carnicos,-13.3011,-69.5287
+A_58,Piura,Lacteos,-4.559,-71.4588
+A_59,Chimbote,Panaderia Industrial,-6.4954,-70.0626
+A_60,Tacna,Confiteria,-6.6211,-69.9123
+A_61,Chimbote,Suministros Electricos,-3.7214,-69.663
+A_62,Ayacucho,Tuberias,-13.6279,-78.8875
+A_63,Ica,Griferia,-3.1076,-72.4182
+A_64,Chiclayo,Acabados de Construccion,-9.8639,-73.9809
+A_65,Chiclayo,Madera,-7.0086,-72.6461
+A_66,Cajamarca,Acero,-5.1567,-78.558
+A_67,Trujillo,Lubricantes,-14.86,-69.8431
+A_68,Pucallpa,Aditivos,-5.4043,-74.1979
+A_69,Chiclayo,Limpieza Industrial,-10.3918,-69.4
+A_70,Piura,Empaques,-17.3675,-73.8928
+A_71,Tacna,Plasticos,-3.9161,-75.9634
+A_72,Cercado de Lima,Fibras Opticas,-7.2607,-72.6535
+A_73,Chiclayo,Componentes Electronicos,-9.862,-76.193
+A_74,Iquitos,Robótica Educativa,-4.4494,-71.1835
+A_75,Huaraz,Detergentes,-12.7679,-70.053
+A_76,Cercado de Lima,Cuidado Personal,-8.6352,-71.0617
+A_77,Cusco,Suplementos,-4.3915,-69.0806
+A_78,Piura,Equipos Dentales,-15.4733,-78.7124
+A_79,Tacna,Laboratorio,-15.1632,-79.969
+A_80,Arequipa,Seguridad Vial,-6.316,-79.792
+A_81,Cajamarca,Uniformes,-5.6759,-71.9786
+A_82,Cusco,Calzado Industrial,-13.5428,-72.0555
+A_83,San Isidro,Extintores,-4.0092,-79.2988
+A_84,Pucallpa,Sistemas de Riego,-12.8536,-80.1401
+A_85,Miraflores,Fertilizantes,-8.5568,-77.253
+A_86,Arequipa,Semillas,-13.9461,-80.3814
+A_87,Ica,Agroquimicos,-16.2928,-77.7171
+A_88,Tacna,Maquinaria Ligera,-15.5083,-76.5852
+A_89,San Isidro,Generadores,-15.2596,-79.6582
+A_90,Arequipa,Compresoras,-15.8375,-80.9487
+A_91,Pucallpa,Bombas de Agua,-15.8709,-71.3649
+A_92,Huancayo,Telas,-15.2758,-78.0065
+A_93,Huancayo,Hilos,-14.0285,-72.5133
+A_94,Huancayo,Cuero,-17.6871,-72.3261
+A_95,Trujillo,Artesanias,-6.5133,-77.295
+A_96,Huaraz,Joyeria,-9.5669,-73.5752
+A_97,Tarapoto,Souvenirs,-7.2116,-75.0028
+A_98,Chimbote,Articulos de Fiesta,-5.7184,-80.4489
+A_99,Cajamarca,Papel Impreso,-5.5214,-78.4295
+A_100,Chiclayo,Carton,-8.9262,-77.7131
+B_1,Pucallpa,Ceramica,-12.1918,-72.6886
+B_2,Tacna,Bicicletas,-3.0341,-70.0125
+B_3,Cajamarca,Colchones,-13.6438,-70.0207
+B_4,San Isidro,Electrodomesticos,-10.5059,-77.874
+B_5,Cajamarca,Repuestos Automotrices,-4.0777,-72.6837
+B_6,Puno,Herramientas,-15.2397,-70.1864
+B_7,Cercado de Lima,Juguetes,-11.2734,-75.6461
+B_8,Chiclayo,Ropa Deportiva,-7.5494,-71.0698
+B_9,Ica,Calzado,-3.5403,-76.7964
+B_10,Chimbote,Electronica de Consumo,-5.3396,-72.6887
+B_11,Chimbote,Libros,-10.595,-78.6203
+B_12,Cajamarca,Muebles de Oficina,-12.8684,-73.1632
+B_13,Arequipa,Instrumentos Musicales,-16.2104,-70.5211
+B_14,Piura,Camaras,-14.4621,-75.4818
+B_15,Cajamarca,Celulares,-3.3625,-74.3078
+B_16,Trujillo,Linea Blanca,-15.7498,-73.893
+B_17,Cusco,Insumos Medicos,-12.5168,-71.8254
+B_18,Chiclayo,Textiles,-15.7487,-77.0604
+B_19,San Isidro,Alimentos Secos,-13.7491,-77.9253
+B_20,Trujillo,Cereales,-17.5231,-80.8549
+B_21,Pucallpa,Bebidas,-13.9857,-71.1368
+B_22,Chiclayo,Neumaticos,-17.2063,-76.0884
+B_23,San Isidro,Pinturas,-11.1708,-75.4218
+B_24,Huancayo,Ferreteria,-4.509,-73.4185
+B_25,Pucallpa,Iluminacion,-14.4637,-80.8331
+B_26,Tarapoto,Camping,-8.9975,-70.8222
+B_27,Miraflores,Papeleria,-10.275,-79.2062
+B_28,Tarapoto,Materiales de Construccion,-3.5805,-77.7386
+B_29,Chimbote,Jardineria,-11.0193,-76.3932
+B_30,Piura,Mascotas,-4.2942,-73.262
+B_31,Ayacucho,Belleza,-9.6896,-75.1138
+B_32,Cercado de Lima,Relojeria,-12.0561,-71.3268
+B_33,Tarapoto,Bolsos,-7.0767,-78.561
+B_34,Tacna,Lentes,-10.2458,-72.5295
+B_35,Piura,Arte,-3.8304,-77.5375
+B_36,Iquitos,Pesca,-7.8939,-73.2034
+B_37,Puno,Baterias,-14.1596,-75.2378
+B_38,Trujillo,Computo,-5.25,-80.8198
+B_39,Trujillo,Audio Profesional,-11.7089,-75.994
+B_40,Tacna,Seguridad Industrial,-12.7399,-75.2062
+B_41,Pucallpa,Cafe,-12.4871,-75.6567
+B_42,Iquitos,Cacao,-10.4525,-80.9331
+B_43,Tarapoto,Vinos,-12.3173,-76.478
+B_44,Arequipa,Equipos de Gimnasio,-16.865,-71.9155
+B_45,Tarapoto,Drones,-13.7851,-70.1975
+B_46,Cusco,Bicicletas Electricas,-4.076,-75.1992
+B_47,Miraflores,Software,-17.3064,-71.131
+B_48,Puno,Paneles Solares,-13.1411,-80.0012
+B_49,Tacna,Motores,-9.2218,-72.2609
+B_50,Miraflores,Quimicos,-3.4187,-71.571
+B_51,Ica,Vidrios,-3.396,-69.2386
+B_52,Huancayo,Material Quirurgico,-5.226,-72.4294
+B_53,Huancayo,Medicamentos,-17.7099,-80.8898
+B_54,Miraflores,Vacunas,-10.4455,-74.9591
+B_55,Chimbote,Alimentos Congelados,-4.0431,-78.5703
+B_56,Ica,Frutas,-13.4046,-74.0604
+B_57,Trujillo,Verduras,-14.5785,-78.3961
+B_58,Arequipa,Carnicos,-11.3724,-73.6594
+B_59,Chimbote,Lacteos,-11.5046,-79.4177
+B_60,Cercado de Lima,Panaderia Industrial,-11.3191,-73.5313
+B_61,Puno,Confiteria,-11.7465,-70.7085
+B_62,Ica,Suministros Electricos,-11.3306,-72.5967
+B_63,Trujillo,Tuberias,-15.8914,-76.2633
+B_64,Ayacucho,Griferia,-9.8325,-79.3787
+B_65,Huaraz,Acabados de Construccion,-16.8211,-75.5457
+B_66,Huaraz,Madera,-10.3157,-77.7265
+B_67,San Isidro,Acero,-16.6072,-73.5245
+B_68,Huancayo,Lubricantes,-10.9041,-75.5445
+B_69,Ica,Aditivos,-7.1449,-69.8321
+B_70,Arequipa,Limpieza Industrial,-10.2525,-70.5199
+B_71,Tacna,Empaques,-14.8552,-72.6036
+B_72,Huaraz,Plasticos,-10.671,-75.3697
+B_73,Iquitos,Fibras Opticas,-11.714,-72.957
+B_74,Cercado de Lima,Componentes Electronicos,-5.6647,-80.285
+B_75,Cercado de Lima,Robótica Educativa,-9.9319,-74.2997
+B_76,Pucallpa,Detergentes,-7.3527,-72.4052
+B_77,Pucallpa,Cuidado Personal,-12.0884,-71.6211
+B_78,Ayacucho,Suplementos,-11.1461,-76.8829
+B_79,San Isidro,Equipos Dentales,-11.1734,-75.4418
+B_80,Ica,Laboratorio,-16.1924,-69.9949
+B_81,Arequipa,Seguridad Vial,-7.6382,-74.27
+B_82,Tacna,Uniformes,-10.6594,-69.6683
+B_83,Ayacucho,Calzado Industrial,-4.3003,-80.2021
+B_84,Cusco,Extintores,-12.5085,-71.9624
+B_85,San Isidro,Sistemas de Riego,-11.7483,-73.8498
+B_86,Chimbote,Fertilizantes,-12.447,-80.665
+B_87,Chiclayo,Semillas,-4.8806,-72.2649
+B_88,Cercado de Lima,Agroquimicos,-4.1301,-70.0198
+B_89,Huaraz,Maquinaria Ligera,-7.849,-69.5935
+B_90,Cusco,Generadores,-13.2892,-76.925
+B_91,Piura,Compresoras,-13.1854,-79.7362
+B_92,Huaraz,Bombas de Agua,-16.9126,-74.5318
+B_93,Huaraz,Telas,-11.9212,-72.034
+B_94,Piura,Hilos,-9.0681,-80.6038
+B_95,Tacna,Cuero,-3.6006,-69.8685
+B_96,Piura,Artesanias,-3.373,-79.0374
+B_97,Ica,Joyeria,-10.1123,-75.6664
+B_98,Chiclayo,Souvenirs,-8.1722,-70.6178
+B_99,Cercado de Lima,Articulos de Fiesta,-15.9219,-76.8104
+B_100,Huaraz,Papel Impreso,-10.7082,-70.805
+C_1,Iquitos,Carton,-6.6754,-78.3363
+C_2,Cercado de Lima,Ceramica,-9.1807,-80.8768
+C_3,Chimbote,Bicicletas,-10.8843,-76.7867
+C_4,Piura,Colchones,-5.1874,-80.0427
+C_5,Tacna,Electrodomesticos,-16.1442,-73.0652
+C_6,Arequipa,Repuestos Automotrices,-6.4352,-69.5805
+C_7,Miraflores,Herramientas,-11.6289,-77.9921
+C_8,Iquitos,Juguetes,-16.4417,-79.42
+C_9,Ayacucho,Ropa Deportiva,-9.0227,-69.4885
+C_10,Chimbote,Calzado,-13.4724,-79.4543
+C_11,Cajamarca,Electronica de Consumo,-4.4162,-74.6272
+C_12,Tarapoto,Libros,-5.165,-78.8178
+C_13,Puno,Muebles de Oficina,-6.1802,-74.6299
+C_14,Pucallpa,Instrumentos Musicales,-5.6492,-72.9035
+C_15,Ica,Camaras,-13.6546,-73.7605
+C_16,Pucallpa,Celulares,-17.3567,-79.6145
+C_17,Puno,Linea Blanca,-12.1152,-77.6206
+C_18,Pucallpa,Insumos Medicos,-15.5624,-77.6711
+C_19,Puno,Textiles,-15.093,-76.8662
+C_20,Ayacucho,Alimentos Secos,-11.202,-79.5971
+C_21,Miraflores,Cereales,-17.8897,-80.3294
+C_22,Cajamarca,Bebidas,-8.5565,-75.6054
+C_23,Iquitos,Neumaticos,-9.1658,-71.7335
+C_24,Huancayo,Pinturas,-9.2931,-74.4499
+C_25,Miraflores,Ferreteria,-14.1694,-75.8195
+C_26,Puno,Iluminacion,-7.7942,-73.7202
+C_27,Ayacucho,Camping,-14.6916,-78.0098
+C_28,Chimbote,Papeleria,-3.1439,-78.5949
+C_29,Cusco,Materiales de Construccion,-16.7578,-69.7286
+C_30,Tarapoto,Jardineria,-11.2975,-77.2473
+C_31,Trujillo,Mascotas,-7.587,-71.3964
+C_32,Tarapoto,Belleza,-6.1378,-78.9683
+C_33,Tarapoto,Relojeria,-3.4791,-77.8475
+C_34,Ayacucho,Bolsos,-13.0592,-78.4532
+C_35,Puno,Lentes,-14.0542,-69.5343
+C_36,Miraflores,Arte,-6.4808,-73.8897
+C_37,Cercado de Lima,Pesca,-8.3297,-78.8235
+C_38,Pucallpa,Baterias,-13.467,-69.0823
+C_39,Cajamarca,Computo,-6.6022,-79.0768
+C_40,Trujillo,Audio Profesional,-15.9967,-75.5035
+C_41,Ayacucho,Seguridad Industrial,-16.6241,-80.9506
+C_42,Chiclayo,Cafe,-10.1581,-71.9767
+C_43,Puno,Cacao,-12.3866,-69.3169
+C_44,Piura,Vinos,-13.3614,-72.1352
+C_45,Pucallpa,Equipos de Gimnasio,-14.536,-70.2293
+C_46,Ica,Drones,-5.5898,-72.7437
+C_47,Ayacucho,Bicicletas Electricas,-14.2725,-77.5637
+C_48,Huaraz,Software,-14.1297,-76.9732
+C_49,Ayacucho,Paneles Solares,-16.9154,-73.1791
+C_50,Pucallpa,Motores,-15.538,-75.9811
+C_51,Pucallpa,Quimicos,-17.0641,-74.8834
+C_52,Miraflores,Vidrios,-7.0386,-79.362
+C_53,Pucallpa,Material Quirurgico,-14.0455,-76.6465
+C_54,Ica,Medicamentos,-7.9532,-71.9095
+C_55,Miraflores,Vacunas,-13.3328,-78.3116
+C_56,Cercado de Lima,Alimentos Congelados,-4.7056,-72.166
+C_57,Iquitos,Frutas,-15.0442,-70.6281
+C_58,Huaraz,Verduras,-10.1552,-76.5925
+C_59,Tarapoto,Carnicos,-4.1901,-74.571
+C_60,Cercado de Lima,Lacteos,-13.5949,-76.9214
+C_61,Tarapoto,Panaderia Industrial,-11.6077,-72.4343
+C_62,Ica,Confiteria,-16.746,-75.7016
+C_63,Huaraz,Suministros Electricos,-13.8863,-74.4746
+C_64,Iquitos,Tuberias,-13.2605,-74.7767
+C_65,Piura,Griferia,-16.4342,-70.726
+C_66,San Isidro,Acabados de Construccion,-16.5407,-71.4551
+C_67,Piura,Madera,-5.7558,-80.5141
+C_68,Tarapoto,Acero,-12.4535,-79.4925
+C_69,San Isidro,Lubricantes,-10.6004,-72.7448
+C_70,Ica,Aditivos,-12.2231,-69.7073
+C_71,Trujillo,Limpieza Industrial,-6.1412,-76.2376
+C_72,Cajamarca,Empaques,-3.6738,-70.5712
+C_73,Puno,Plasticos,-5.0188,-80.1132
+C_74,Iquitos,Fibras Opticas,-13.5157,-77.9424
+C_75,San Isidro,Componentes Electronicos,-11.5371,-77.426
+C_76,Miraflores,Robótica Educativa,-16.8788,-72.2157
+C_77,Tacna,Detergentes,-4.228,-71.7957
+C_78,Puno,Cuidado Personal,-15.0738,-71.4214
+C_79,Ica,Suplementos,-16.1192,-76.5895
+C_80,Tarapoto,Equipos Dentales,-7.7238,-80.2242
+C_81,Piura,Laboratorio,-17.3916,-78.9586
+C_82,Ayacucho,Seguridad Vial,-11.2933,-79.3087
+C_83,Puno,Uniformes,-5.6318,-74.2378
+C_84,Huaraz,Calzado Industrial,-3.3197,-77.026
+C_85,Miraflores,Extintores,-11.9835,-76.2157
+C_86,Cusco,Sistemas de Riego,-17.023,-76.2792
+C_87,Pucallpa,Fertilizantes,-17.0042,-74.2578
+C_88,Miraflores,Semillas,-16.54,-69.8816
+C_89,Cajamarca,Agroquimicos,-13.6491,-79.9574
+C_90,Cusco,Maquinaria Ligera,-8.4931,-72.1781
+C_91,Cercado de Lima,Generadores,-3.7528,-76.0562
+C_92,Piura,Compresoras,-7.2421,-77.3732
+C_93,Huancayo,Bombas de Agua,-10.58,-75.8379
+C_94,San Isidro,Telas,-4.4174,-69.5978
+C_95,Miraflores,Hilos,-8.9541,-75.269
+C_96,Iquitos,Cuero,-10.737,-69.0952
+C_97,Ica,Artesanias,-13.5035,-76.4019
+C_98,Huancayo,Joyeria,-16.7951,-78.0696
+C_99,Miraflores,Souvenirs,-12.6698,-75.9246
+C_100,Huancayo,Articulos de Fiesta,-17.7168,-73.3703
+D_1,Miraflores,Papel Impreso,-5.1569,-80.8919
+D_2,Puno,Carton,-8.4917,-79.4398
+D_3,Puno,Ceramica,-17.0358,-69.7948
+D_4,Tarapoto,Bicicletas,-4.3109,-78.7882
+D_5,Tarapoto,Colchones,-9.7866,-72.8926
+D_6,Chiclayo,Electrodomesticos,-6.9667,-76.1085
+D_7,Miraflores,Repuestos Automotrices,-3.9175,-72.5038
+D_8,Huancayo,Herramientas,-16.6547,-70.1622
+D_9,Chiclayo,Juguetes,-6.48,-80.9169
+D_10,Huancayo,Ropa Deportiva,-11.4227,-73.7178
+D_11,Cusco,Calzado,-14.3604,-72.8955
+D_12,Cercado de Lima,Electronica de Consumo,-13.5162,-76.7909
+D_13,Puno,Libros,-4.4664,-80.2459
+D_14,Tacna,Muebles de Oficina,-9.5465,-78.4175
+D_15,Ayacucho,Instrumentos Musicales,-3.7152,-75.7523
+D_16,Tarapoto,Camaras,-16.5392,-71.1262
+D_17,Cajamarca,Celulares,-6.3138,-70.5431
+D_18,Huaraz,Linea Blanca,-8.5561,-78.1415
+D_19,Trujillo,Insumos Medicos,-7.7303,-74.5024
+D_20,Huaraz,Textiles,-3.0118,-73.8695
+D_21,Piura,Alimentos Secos,-3.4711,-69.3563
+D_22,Pucallpa,Cereales,-17.8511,-70.7201
+D_23,Ayacucho,Bebidas,-15.0392,-72.742
+D_24,San Isidro,Neumaticos,-12.3128,-78.24
+D_25,Piura,Pinturas,-3.4354,-74.6052
+D_26,Piura,Ferreteria,-17.21,-71.8254
+D_27,Trujillo,Iluminacion,-5.5981,-72.2222
+D_28,Cusco,Camping,-13.2141,-72.2489
+D_29,Cusco,Papeleria,-16.6088,-69.2907
+D_30,Ica,Materiales de Construccion,-7.8698,-72.5045
+D_31,Chiclayo,Jardineria,-6.4933,-69.1092
+D_32,Miraflores,Mascotas,-14.2972,-74.5796
+D_33,Chiclayo,Belleza,-11.8233,-72.4591
+D_34,San Isidro,Relojeria,-12.9724,-69.7956
+D_35,Iquitos,Bolsos,-4.4416,-70.6519
+D_36,Ica,Lentes,-13.5456,-76.3567
+D_37,Chiclayo,Arte,-7.4379,-73.6749
+D_38,Iquitos,Pesca,-3.7623,-72.3719
+D_39,San Isidro,Baterias,-7.1487,-74.2475
+D_40,Huaraz,Computo,-12.2142,-73.2826
+D_41,Huancayo,Audio Profesional,-11.9478,-73.131
+D_42,Tacna,Seguridad Industrial,-7.2076,-77.4355
+D_43,Chimbote,Cafe,-16.7473,-80.1095
+D_44,Miraflores,Cacao,-4.9857,-72.4639
+D_45,Tacna,Vinos,-10.8907,-73.5252
+D_46,Cercado de Lima,Equipos de Gimnasio,-16.9982,-69.7993
+D_47,Huancayo,Drones,-14.0993,-69.8893
+D_48,Ica,Bicicletas Electricas,-3.1479,-79.1821
+D_49,Pucallpa,Software,-6.0902,-71.0152
+D_50,Chimbote,Paneles Solares,-12.7206,-72.0708
+D_51,Chiclayo,Motores,-13.0625,-77.0321
+D_52,Iquitos,Quimicos,-6.4881,-77.8491
+D_53,San Isidro,Vidrios,-5.5515,-78.8981
+D_54,Piura,Material Quirurgico,-14.3402,-80.729
+D_55,Iquitos,Medicamentos,-5.0395,-74.9237
+D_56,Trujillo,Vacunas,-8.7528,-75.8665
+D_57,Puno,Alimentos Congelados,-12.4175,-78.2581
+D_58,Cusco,Frutas,-9.4565,-70.1323
+D_59,Arequipa,Verduras,-13.432,-71.8341
+D_60,Arequipa,Carnicos,-13.1282,-74.8001
+D_61,Ica,Lacteos,-3.9477,-73.1841
+D_62,Cusco,Panaderia Industrial,-14.6483,-79.7024
+D_63,Ayacucho,Confiteria,-9.1907,-70.022
+D_64,Ica,Suministros Electricos,-5.651,-73.9552
+D_65,Piura,Tuberias,-15.243,-79.3858
+D_66,Miraflores,Griferia,-8.2677,-71.3773
+D_67,Cercado de Lima,Acabados de Construccion,-3.5769,-71.412
+D_68,Tarapoto,Madera,-14.9189,-75.6112
+D_69,Cajamarca,Acero,-11.3448,-70.9806
+D_70,Huancayo,Lubricantes,-16.2673,-71.1471
+D_71,Tacna,Aditivos,-7.5703,-73.2624
+D_72,Chiclayo,Limpieza Industrial,-12.0966,-80.834
+D_73,Chimbote,Empaques,-10.5528,-80.094
+D_74,Ayacucho,Plasticos,-5.3001,-80.6413
+D_75,Puno,Fibras Opticas,-4.5633,-72.6951
+D_76,Huaraz,Componentes Electronicos,-10.768,-77.866
+D_77,Chimbote,Robótica Educativa,-11.6428,-75.908
+D_78,Ica,Detergentes,-10.0486,-69.8481
+D_79,Cajamarca,Cuidado Personal,-10.4899,-73.7175
+D_80,Piura,Suplementos,-14.4914,-78.0142
+D_81,Pucallpa,Equipos Dentales,-12.5939,-69.3648
+D_82,Trujillo,Laboratorio,-16.0881,-74.1067
+D_83,Cajamarca,Seguridad Vial,-4.5818,-72.8583
+D_84,Chimbote,Uniformes,-4.9838,-78.3712
+D_85,Cusco,Calzado Industrial,-8.5846,-71.4639
+D_86,Cercado de Lima,Extintores,-13.1826,-73.5748
+D_87,Iquitos,Sistemas de Riego,-4.1687,-78.4978
+D_88,Cusco,Fertilizantes,-12.0646,-69.3568
+D_89,Puno,Semillas,-9.0966,-79.0899
+D_90,Ica,Agroquimicos,-6.8621,-72.5532
+D_91,Puno,Maquinaria Ligera,-17.6889,-78.1206
+D_92,Huaraz,Generadores,-14.4183,-71.7954
+D_93,Huancayo,Compresoras,-6.2239,-80.5747
+D_94,Tacna,Bombas de Agua,-6.1351,-78.3012
+D_95,Piura,Telas,-4.5975,-73.8186
+D_96,Ayacucho,Hilos,-16.1195,-73.7189
+D_97,Cajamarca,Cuero,-9.8193,-76.998
+D_98,Cusco,Artesanias,-9.6681,-72.237
+D_99,Tarapoto,Joyeria,-14.0472,-71.5052
+D_100,Tarapoto,Souvenirs,-17.9597,-80.2942
+E_1,Cajamarca,Articulos de Fiesta,-17.3013,-70.3695
+E_2,Huaraz,Papel Impreso,-8.1069,-78.5065
+E_3,Ica,Carton,-13.609,-75.052
+E_4,Iquitos,Ceramica,-17.3697,-76.7399
+E_5,Miraflores,Bicicletas,-11.8629,-78.4519
+E_6,Cercado de Lima,Colchones,-7.6233,-79.56
+E_7,Chimbote,Electrodomesticos,-8.2767,-73.0027
+E_8,Arequipa,Repuestos Automotrices,-10.7464,-69.8134
+E_9,Piura,Herramientas,-14.8987,-70.1468
+E_10,Trujillo,Juguetes,-12.0591,-75.5369
+E_11,Arequipa,Ropa Deportiva,-3.2905,-78.0291
+E_12,Chimbote,Calzado,-13.9618,-74.0284
+E_13,Iquitos,Electronica de Consumo,-14.6071,-79.6614
+E_14,Huaraz,Libros,-12.2814,-70.1453
+E_15,Iquitos,Muebles de Oficina,-6.5644,-78.0994
+E_16,Iquitos,Instrumentos Musicales,-16.1019,-73.7405
+E_17,Piura,Camaras,-16.8034,-78.5191
+E_18,Chiclayo,Celulares,-5.7072,-72.5288
+E_19,San Isidro,Linea Blanca,-4.2659,-69.8767
+E_20,Ayacucho,Insumos Medicos,-8.2123,-78.2831
+E_21,Arequipa,Textiles,-8.1845,-70.6863
+E_22,Cusco,Alimentos Secos,-17.2939,-79.7306
+E_23,Piura,Cereales,-5.4341,-77.2669
+E_24,Tacna,Bebidas,-5.9312,-69.9682
+E_25,Cusco,Neumaticos,-4.6388,-77.1492
+E_26,Cajamarca,Pinturas,-6.7469,-74.7151
+E_27,Puno,Ferreteria,-3.1496,-72.1308
+E_28,Iquitos,Iluminacion,-9.9217,-71.0024
+E_29,Cercado de Lima,Camping,-4.3852,-80.5211
+E_30,Puno,Papeleria,-13.1481,-74.9636
+E_31,Iquitos,Materiales de Construccion,-12.4906,-71.6639
+E_32,San Isidro,Jardineria,-4.6092,-80.919
+E_33,Cusco,Mascotas,-8.9595,-77.5333
+E_34,Ica,Belleza,-15.8732,-77.0777
+E_35,Cajamarca,Relojeria,-6.0983,-74.211
+E_36,Cajamarca,Bolsos,-7.2595,-75.2139
+E_37,Chiclayo,Lentes,-6.712,-73.5764
+E_38,Arequipa,Arte,-10.3394,-71.9775
+E_39,Piura,Pesca,-8.0209,-79.0247
+E_40,Cercado de Lima,Baterias,-4.2392,-70.4937
+E_41,Huancayo,Computo,-7.0348,-72.2637
+E_42,Ayacucho,Audio Profesional,-16.0489,-74.3235
+E_43,Huancayo,Seguridad Industrial,-13.6776,-71.9207
+E_44,Pucallpa,Cafe,-16.6522,-77.3142
+E_45,Cusco,Cacao,-5.302,-71.6396
+E_46,Miraflores,Vinos,-5.3724,-80.283
+E_47,Piura,Equipos de Gimnasio,-4.9642,-78.1427
+E_48,Trujillo,Drones,-11.8213,-75.4507
+E_49,Puno,Bicicletas Electricas,-9.4418,-72.7995
+E_50,Arequipa,Software,-8.5168,-72.4909
+E_51,Tacna,Paneles Solares,-16.5675,-79.5921
+E_52,Cajamarca,Motores,-8.4962,-77.8461
+E_53,Cajamarca,Quimicos,-16.9188,-80.09
+E_54,Pucallpa,Vidrios,-6.3667,-70.2013
+E_55,Huaraz,Material Quirurgico,-10.7848,-70.917
+E_56,San Isidro,Medicamentos,-4.585,-72.5285
+E_57,Cercado de Lima,Vacunas,-9.3914,-75.3427
+E_58,Cercado de Lima,Alimentos Congelados,-11.2639,-69.3119
+E_59,Miraflores,Frutas,-7.5506,-70.5145
+E_60,Huancayo,Verduras,-14.9993,-72.4855
+E_61,Miraflores,Carnicos,-15.104,-71.5279
+E_62,Arequipa,Lacteos,-9.8226,-78.9788
+E_63,San Isidro,Panaderia Industrial,-7.3155,-72.4878
+E_64,Piura,Confiteria,-17.9258,-72.9459
+E_65,Miraflores,Suministros Electricos,-17.0318,-73.1393
+E_66,Iquitos,Tuberias,-8.9878,-74.5745
+E_67,Cajamarca,Griferia,-6.2553,-76.4192
+E_68,Iquitos,Acabados de Construccion,-14.2606,-71.8997
+E_69,Piura,Madera,-8.1608,-73.0196
+E_70,Arequipa,Acero,-6.739,-74.3364
+E_71,Iquitos,Lubricantes,-4.9492,-71.5355
+E_72,Tarapoto,Aditivos,-5.7742,-77.4409
+E_73,Pucallpa,Limpieza Industrial,-14.2436,-76.116
+E_74,Arequipa,Empaques,-9.2315,-78.1974
+E_75,Puno,Plasticos,-3.2159,-74.4387
+E_76,Cusco,Fibras Opticas,-5.6681,-80.2237
+E_77,Miraflores,Componentes Electronicos,-11.3537,-80.7834
+E_78,Puno,Robótica Educativa,-9.3559,-77.969
+E_79,Tarapoto,Detergentes,-12.1099,-71.206
+E_80,Arequipa,Cuidado Personal,-12.1946,-72.3756
+E_81,Puno,Suplementos,-17.8455,-69.673
+E_82,Piura,Equipos Dentales,-15.9442,-77.9889
+E_83,Cercado de Lima,Laboratorio,-15.654,-69.3543
+E_84,Arequipa,Seguridad Vial,-4.1876,-75.9209
+E_85,Huaraz,Uniformes,-14.9537,-78.7674
+E_86,Piura,Calzado Industrial,-4.2616,-78.9932
+E_87,Ayacucho,Extintores,-5.9175,-70.7325
+E_88,Iquitos,Sistemas de Riego,-9.6373,-76.1102
+E_89,Tarapoto,Fertilizantes,-13.8006,-71.0503
+E_90,Chiclayo,Semillas,-10.7947,-75.9648
+E_91,Huancayo,Agroquimicos,-6.5682,-77.7498
+E_92,Cercado de Lima,Maquinaria Ligera,-17.5665,-73.0826
+E_93,Ayacucho,Generadores,-8.7425,-70.4194
+E_94,Tacna,Compresoras,-7.3382,-76.7087
+E_95,Iquitos,Bombas de Agua,-7.5719,-75.7641
+E_96,Trujillo,Telas,-7.7759,-75.4837
+E_97,Huaraz,Hilos,-4.7594,-69.4572
+E_98,Arequipa,Cuero,-12.1416,-80.6798
+E_99,Arequipa,Artesanias,-11.9517,-80.4674
+E_100,Tacna,Joyeria,-10.4365,-72.8702
+F_1,Cajamarca,Souvenirs,-17.3015,-77.2848
+F_2,Miraflores,Articulos de Fiesta,-3.5683,-78.7761
+F_3,Iquitos,Papel Impreso,-12.8013,-78.8619
+F_4,Trujillo,Carton,-16.5866,-75.0916
+F_5,Cercado de Lima,Ceramica,-14.6824,-71.8768
+F_6,Tarapoto,Bicicletas,-8.8323,-75.5431
+F_7,Cajamarca,Colchones,-3.7363,-75.4007
+F_8,Ica,Electrodomesticos,-6.294,-76.7245
+F_9,San Isidro,Repuestos Automotrices,-3.114,-80.4725
+F_10,Trujillo,Herramientas,-4.9848,-73.7891
+F_11,Ayacucho,Juguetes,-11.921,-72.8493
+F_12,Ayacucho,Ropa Deportiva,-16.1662,-74.5544
+F_13,Chiclayo,Calzado,-8.9987,-79.0977
+F_14,Pucallpa,Electronica de Consumo,-17.5137,-70.4379
+F_15,Piura,Libros,-10.5266,-78.0807
+F_16,Tacna,Muebles de Oficina,-6.9834,-72.6317
+F_17,San Isidro,Instrumentos Musicales,-3.6114,-74.2528
+F_18,Ayacucho,Camaras,-4.7173,-78.4971
+F_19,Cajamarca,Celulares,-14.8429,-72.0657
+F_20,Cusco,Linea Blanca,-5.7758,-71.3583
+F_21,Tacna,Insumos Medicos,-5.6417,-80.0203
+F_22,Huancayo,Textiles,-6.4851,-78.7467
+F_23,Piura,Alimentos Secos,-6.5569,-76.2957
+F_24,Ica,Cereales,-6.2504,-78.4271
+F_25,Chiclayo,Bebidas,-13.8036,-78.2945
+F_26,Huaraz,Neumaticos,-6.8514,-71.1904
+F_27,Puno,Pinturas,-8.0965,-77.4363
+F_28,Ica,Ferreteria,-16.001,-75.9668
+F_29,Iquitos,Iluminacion,-8.1021,-72.7753
+F_30,Tacna,Camping,-7.6469,-73.1163
+F_31,Piura,Papeleria,-3.2595,-74.2354
+F_32,Tarapoto,Materiales de Construccion,-15.8772,-80.965
+F_33,Iquitos,Jardineria,-13.7459,-77.0661
+F_34,Huancayo,Mascotas,-15.0833,-72.6552
+F_35,Puno,Belleza,-12.1522,-72.8246
+F_36,Chiclayo,Relojeria,-13.7123,-76.4371
+F_37,Huancayo,Bolsos,-15.2558,-78.0475
+F_38,Miraflores,Lentes,-8.1136,-76.4031
+F_39,Huancayo,Arte,-7.9549,-72.5694
+F_40,Ica,Pesca,-6.3003,-72.9439
+F_41,Chiclayo,Baterias,-6.6058,-69.0609
+F_42,Chiclayo,Computo,-10.8896,-80.4529
+F_43,Miraflores,Audio Profesional,-11.8945,-78.301
+F_44,Cercado de Lima,Seguridad Industrial,-16.8429,-77.5261
+F_45,Iquitos,Cafe,-12.4903,-75.5725
+F_46,Huancayo,Cacao,-11.001,-72.5522
+F_47,Iquitos,Vinos,-11.9258,-78.8975
+F_48,Chiclayo,Equipos de Gimnasio,-15.2159,-73.3072
+F_49,Huaraz,Drones,-16.9235,-74.1122
+F_50,Miraflores,Bicicletas Electricas,-8.8812,-70.8533
+F_51,Arequipa,Software,-17.6133,-77.7275
+F_52,Puno,Paneles Solares,-13.0566,-72.7664
+F_53,Arequipa,Motores,-6.0087,-79.0057
+F_54,Tarapoto,Quimicos,-11.338,-77.6878
+F_55,Arequipa,Vidrios,-8.963,-69.4157
+F_56,Piura,Material Quirurgico,-9.2741,-80.38
+F_57,Chimbote,Medicamentos,-16.8553,-70.0304
+F_58,Chimbote,Vacunas,-3.6515,-69.082
+F_59,Arequipa,Alimentos Congelados,-8.2966,-77.0033
+F_60,Pucallpa,Frutas,-17.6099,-78.4063
+F_61,Puno,Verduras,-4.4356,-73.772
+F_62,Tacna,Carnicos,-11.3496,-80.5992
+F_63,Cusco,Lacteos,-6.4133,-73.2187
+F_64,Piura,Panaderia Industrial,-17.9078,-69.7531
+F_65,Trujillo,Confiteria,-7.1084,-79.0447
+F_66,Chimbote,Suministros Electricos,-10.6624,-75.0676
+F_67,Huaraz,Tuberias,-14.4359,-80.0433
+F_68,San Isidro,Griferia,-9.8669,-80.1021
+F_69,Huaraz,Acabados de Construccion,-11.5898,-69.1049
+F_70,San Isidro,Madera,-10.0612,-79.9178
+F_71,Miraflores,Acero,-5.7471,-74.8754
+F_72,Chiclayo,Lubricantes,-11.0516,-74.0081
+F_73,Cajamarca,Aditivos,-16.0432,-74.1012
+F_74,Piura,Limpieza Industrial,-7.3588,-72.5835
+F_75,Huaraz,Empaques,-7.6263,-73.4293
+F_76,Tarapoto,Plasticos,-12.2271,-79.4188
+F_77,Puno,Fibras Opticas,-8.2278,-74.3998
+F_78,Puno,Componentes Electronicos,-11.7752,-79.5543
+F_79,Huaraz,Robótica Educativa,-16.5045,-69.0492
+F_80,Ayacucho,Detergentes,-15.702,-70.9241
+F_81,Piura,Cuidado Personal,-8.4467,-77.2237
+F_82,Tacna,Suplementos,-4.5506,-69.9409
+F_83,Cercado de Lima,Equipos Dentales,-8.0495,-70.0986
+F_84,Chimbote,Laboratorio,-5.2517,-80.1749
+F_85,Cercado de Lima,Seguridad Vial,-16.1913,-79.4318
+F_86,Pucallpa,Uniformes,-8.8087,-77.6256
+F_87,Puno,Calzado Industrial,-3.2525,-71.7933
+F_88,San Isidro,Extintores,-17.8698,-69.119
+F_89,Miraflores,Sistemas de Riego,-15.6425,-73.9786
+F_90,Trujillo,Fertilizantes,-7.1439,-73.7358
+F_91,Miraflores,Semillas,-14.3791,-76.3949
+F_92,Iquitos,Agroquimicos,-4.0812,-80.2749
+F_93,Ica,Maquinaria Ligera,-15.403,-71.8951
+F_94,Huaraz,Generadores,-7.6441,-75.4719
+F_95,Puno,Compresoras,-8.8439,-72.0758
+F_96,Miraflores,Bombas de Agua,-7.5011,-75.1481
+F_97,Trujillo,Telas,-17.4005,-77.9583
+F_98,Ica,Hilos,-5.6972,-77.2751
+F_99,Chimbote,Cuero,-7.286,-72.4182
+F_100,Arequipa,Artesanias,-17.0343,-70.9768
+G_1,Cusco,Joyeria,-8.1336,-79.5259
+G_2,Ayacucho,Souvenirs,-17.5387,-71.062
+G_3,San Isidro,Articulos de Fiesta,-7.6566,-78.8906
+G_4,Chiclayo,Papel Impreso,-5.9465,-77.9672
+G_5,Huancayo,Carton,-5.8161,-73.5822
+G_6,Cajamarca,Ceramica,-5.824,-73.461
+G_7,Chiclayo,Bicicletas,-3.599,-78.8796
+G_8,Huancayo,Colchones,-7.7892,-69.8783
+G_9,Pucallpa,Electrodomesticos,-6.9081,-70.2568
+G_10,Cercado de Lima,Repuestos Automotrices,-12.6035,-72.3153
+G_11,Iquitos,Herramientas,-5.8419,-79.2357
+G_12,Cajamarca,Juguetes,-16.5321,-73.3187
+G_13,Cercado de Lima,Ropa Deportiva,-10.4883,-73.0296
+G_14,Iquitos,Calzado,-8.8109,-72.4496
+G_15,Cajamarca,Electronica de Consumo,-12.363,-74.0773
+G_16,Iquitos,Libros,-8.0565,-78.2676
+G_17,Piura,Muebles de Oficina,-10.8924,-71.7289
+G_18,Huancayo,Instrumentos Musicales,-7.9303,-74.796
+G_19,Ica,Camaras,-4.5759,-76.8507
+G_20,Pucallpa,Celulares,-15.4222,-77.8085
+G_21,Puno,Linea Blanca,-12.9054,-77.3378
+G_22,Cajamarca,Insumos Medicos,-5.9256,-76.9748
+G_23,Chimbote,Textiles,-12.7525,-75.1756
+G_24,Cajamarca,Alimentos Secos,-8.7967,-73.4842
+G_25,Tacna,Cereales,-14.4803,-73.4684
+G_26,Piura,Bebidas,-7.7206,-71.2729
+G_27,Trujillo,Neumaticos,-7.3004,-72.2836
+G_28,Chimbote,Pinturas,-7.5043,-75.0641
+G_29,Cajamarca,Ferreteria,-3.3994,-78.4067
+G_30,Ayacucho,Iluminacion,-13.8452,-69.7979
+G_31,Pucallpa,Camping,-11.4357,-77.9357
+G_32,Ayacucho,Papeleria,-14.5366,-75.1727
+G_33,Tarapoto,Materiales de Construccion,-10.6316,-73.34
+G_34,Tacna,Jardineria,-6.4923,-76.6673
+G_35,Tarapoto,Mascotas,-6.3876,-75.5751
+G_36,Iquitos,Belleza,-7.1045,-74.1382
+G_37,Cercado de Lima,Relojeria,-17.4299,-72.9248
+G_38,Trujillo,Bolsos,-15.3342,-70.3817
+G_39,Ica,Lentes,-9.5478,-79.2085
+G_40,Cusco,Arte,-17.9008,-72.7145
+G_41,Huaraz,Pesca,-9.0889,-72.1722
+G_42,Huaraz,Baterias,-17.6508,-79.8278
+G_43,Ayacucho,Computo,-15.8682,-74.3986
+G_44,Cercado de Lima,Audio Profesional,-5.6635,-70.5168
+G_45,Ayacucho,Seguridad Industrial,-7.9334,-73.9451
+G_46,Miraflores,Cafe,-5.9074,-69.4811
+G_47,Ica,Cacao,-7.6635,-71.8138
+G_48,Huancayo,Vinos,-11.9801,-80.9426
+G_49,Chimbote,Equipos de Gimnasio,-14.4169,-72.3831
+G_50,Cusco,Drones,-10.8124,-76.5392
+G_51,Trujillo,Bicicletas Electricas,-10.4955,-69.0975
+G_52,Trujillo,Software,-12.4336,-69.7099
+G_53,Puno,Paneles Solares,-13.2888,-69.0775
+G_54,Chimbote,Motores,-16.8754,-73.0945
+G_55,Ayacucho,Quimicos,-12.6656,-79.4754
+G_56,Ayacucho,Vidrios,-5.4385,-77.5976
+G_57,Tarapoto,Material Quirurgico,-5.3116,-80.8251
+G_58,Huaraz,Medicamentos,-3.9489,-77.777
+G_59,Chiclayo,Vacunas,-8.6224,-78.9896
+G_60,Pucallpa,Alimentos Congelados,-15.5992,-79.3338
+G_61,Pucallpa,Frutas,-17.4511,-72.083
+G_62,Iquitos,Verduras,-9.4786,-80.7
+G_63,Pucallpa,Carnicos,-4.6249,-72.3379
+G_64,Piura,Lacteos,-8.2017,-74.5949
+G_65,Ayacucho,Panaderia Industrial,-13.2661,-69.4252
+G_66,Chimbote,Confiteria,-17.1556,-74.4623
+G_67,San Isidro,Suministros Electricos,-8.9416,-69.6905
+G_68,Huancayo,Tuberias,-10.6683,-76.7556
+G_69,Trujillo,Griferia,-12.8338,-80.6958
+G_70,San Isidro,Acabados de Construccion,-11.5436,-74.811
+G_71,Ayacucho,Madera,-4.7699,-70.4002
+G_72,Ayacucho,Acero,-10.9099,-70.491
+G_73,Cajamarca,Lubricantes,-14.1356,-73.6351
+G_74,Tacna,Aditivos,-12.0825,-74.4639
+G_75,Puno,Limpieza Industrial,-7.1446,-74.0023
+G_76,Chimbote,Empaques,-16.4224,-76.8277
+G_77,Cusco,Plasticos,-13.7225,-70.5157
+G_78,Cusco,Fibras Opticas,-15.8099,-69.2461
+G_79,Ica,Componentes Electronicos,-7.5777,-75.0774
+G_80,Chiclayo,Robótica Educativa,-7.987,-79.356
+G_81,Cercado de Lima,Detergentes,-11.9655,-72.8503
+G_82,Chiclayo,Cuidado Personal,-11.8253,-78.4608
+G_83,Ayacucho,Suplementos,-15.5318,-72.0372
+G_84,San Isidro,Equipos Dentales,-13.2138,-79.4928
+G_85,Pucallpa,Laboratorio,-7.0556,-78.5448
+G_86,Puno,Seguridad Vial,-4.1143,-70.639
+G_87,Tarapoto,Uniformes,-4.3027,-76.7945
+G_88,Cajamarca,Calzado Industrial,-10.0286,-77.6344
+G_89,Chimbote,Extintores,-3.0466,-71.1689
+G_90,Pucallpa,Sistemas de Riego,-15.8109,-69.4972
+G_91,Ica,Fertilizantes,-7.8553,-69.5036
+G_92,Huaraz,Semillas,-9.4233,-71.111
+G_93,San Isidro,Agroquimicos,-10.3867,-73.2533
+G_94,Cercado de Lima,Maquinaria Ligera,-12.4859,-79.7116
+G_95,Miraflores,Generadores,-3.3502,-76.6605
+G_96,Cercado de Lima,Compresoras,-14.1332,-69.4117
+G_97,Piura,Bombas de Agua,-12.8074,-76.1931
+G_98,Cajamarca,Telas,-4.7554,-72.05
+G_99,Cusco,Hilos,-13.3547,-72.6938
+G_100,Chiclayo,Cuero,-12.7223,-76.88
+H_1,Ica,Artesanias,-13.9808,-70.1551
+H_2,Pucallpa,Joyeria,-12.0591,-72.0163
+H_3,Cusco,Souvenirs,-15.3418,-79.8598
+H_4,Miraflores,Articulos de Fiesta,-14.7761,-75.5275
+H_5,Chimbote,Papel Impreso,-7.5117,-79.2077
+H_6,Ica,Carton,-10.1599,-74.4108
+H_7,Cajamarca,Ceramica,-8.8172,-73.7355
+H_8,Pucallpa,Bicicletas,-15.5683,-74.5804
+H_9,Puno,Colchones,-10.5151,-77.5927
+H_10,Huancayo,Electrodomesticos,-10.1679,-80.88
+H_11,Iquitos,Repuestos Automotrices,-16.9209,-71.5829
+H_12,Pucallpa,Herramientas,-3.7343,-71.0386
+H_13,Piura,Juguetes,-6.7344,-75.2443
+H_14,Chiclayo,Ropa Deportiva,-11.5399,-76.4121
+H_15,Chimbote,Calzado,-12.0057,-73.9782
+H_16,Miraflores,Electronica de Consumo,-10.7307,-77.8644
+H_17,Chimbote,Libros,-16.778,-74.0841
+H_18,Puno,Muebles de Oficina,-11.0215,-79.2675
+H_19,Cusco,Instrumentos Musicales,-11.2628,-78.2501
+H_20,Huancayo,Camaras,-10.7298,-79.8199
+H_21,Huancayo,Celulares,-17.8419,-70.4012
+H_22,Huaraz,Linea Blanca,-4.3054,-73.5252
+H_23,Trujillo,Insumos Medicos,-13.6795,-77.3218
+H_24,Chimbote,Textiles,-11.5269,-79.9556
+H_25,Trujillo,Alimentos Secos,-8.7182,-73.0205
+H_26,Ayacucho,Cereales,-7.3524,-79.1697
+H_27,Arequipa,Bebidas,-11.9345,-75.0377
+H_28,Tacna,Neumaticos,-7.0825,-75.0959
+H_29,Tarapoto,Pinturas,-6.8509,-72.4402
+H_30,Ica,Ferreteria,-16.9156,-73.6277
+H_31,San Isidro,Iluminacion,-4.5978,-80.5536
+H_32,Puno,Camping,-14.6543,-74.7499
+H_33,Piura,Papeleria,-14.313,-74.5623
+H_34,Ayacucho,Materiales de Construccion,-3.3562,-79.0378
+H_35,Huaraz,Jardineria,-9.9249,-69.5899
+H_36,Piura,Mascotas,-11.4399,-74.8817
+H_37,San Isidro,Belleza,-4.471,-75.3476
+H_38,Cusco,Relojeria,-11.8634,-77.2449
+H_39,Chimbote,Bolsos,-14.8748,-76.8776
+H_40,Chimbote,Lentes,-6.8125,-77.8158
+H_41,Ica,Arte,-12.4918,-80.6318
+H_42,Puno,Pesca,-3.5739,-78.114
+H_43,Chiclayo,Baterias,-10.4598,-73.1436
+H_44,Tarapoto,Computo,-15.7224,-74.8046
+H_45,Cajamarca,Audio Profesional,-9.9816,-80.6424
+H_46,Pucallpa,Seguridad Industrial,-15.6097,-80.3551
+H_47,Trujillo,Cafe,-14.7316,-76.6515
+H_48,Tarapoto,Cacao,-7.5295,-79.841
+H_49,San Isidro,Vinos,-3.2996,-78.0407
+H_50,Chimbote,Equipos de Gimnasio,-16.5708,-70.1846
+H_51,Arequipa,Drones,-17.5917,-77.3195
+H_52,Piura,Bicicletas Electricas,-10.4544,-72.4988
+H_53,Chimbote,Software,-9.0961,-70.279
+H_54,San Isidro,Paneles Solares,-4.1601,-77.0588
+H_55,Chiclayo,Motores,-8.785,-78.2472
+H_56,Ica,Quimicos,-9.6751,-75.7767
+H_57,Pucallpa,Vidrios,-10.7185,-73.8044
+H_58,Trujillo,Material Quirurgico,-3.0208,-79.7669
+H_59,Miraflores,Medicamentos,-16.3398,-76.1119
+H_60,Tacna,Vacunas,-9.9066,-71.9643
+H_61,Chimbote,Alimentos Congelados,-6.0057,-77.6629
+H_62,Miraflores,Frutas,-16.7299,-76.209
+H_63,Puno,Verduras,-15.9476,-72.2041
+H_64,Puno,Carnicos,-17.8535,-77.5421
+H_65,Arequipa,Lacteos,-15.9051,-69.6107
+H_66,Cajamarca,Panaderia Industrial,-5.6713,-78.1631
+H_67,Trujillo,Confiteria,-8.6838,-79.6316
+H_68,Huancayo,Suministros Electricos,-12.9686,-75.2151
+H_69,Cajamarca,Tuberias,-5.6913,-78.2955
+H_70,Cercado de Lima,Griferia,-4.4391,-74.4219
+H_71,Piura,Acabados de Construccion,-17.9957,-76.2938
+H_72,Tacna,Madera,-4.647,-79.1955
+H_73,Pucallpa,Acero,-16.6392,-72.5957
+H_74,San Isidro,Lubricantes,-13.002,-69.0931
+H_75,Piura,Aditivos,-14.4894,-76.1785
+H_76,Trujillo,Limpieza Industrial,-10.8634,-74.0181
+H_77,Cajamarca,Empaques,-15.5549,-75.9776
+H_78,Trujillo,Plasticos,-9.0581,-80.6923
+H_79,Huaraz,Fibras Opticas,-6.3793,-79.4367
+H_80,Trujillo,Componentes Electronicos,-9.3907,-79.627
+H_81,Trujillo,Robótica Educativa,-10.1658,-76.6159
+H_82,Huaraz,Detergentes,-16.5986,-77.3218
+H_83,Chiclayo,Cuidado Personal,-10.557,-77.6587
+H_84,Tarapoto,Suplementos,-16.9768,-71.0211
+H_85,Cercado de Lima,Equipos Dentales,-9.0411,-72.5345
+H_86,Ayacucho,Laboratorio,-11.6628,-78.7266
+H_87,Chimbote,Seguridad Vial,-5.8926,-70.7683
+H_88,Pucallpa,Uniformes,-15.3997,-75.3022
+H_89,Cercado de Lima,Calzado Industrial,-5.0328,-73.2024
+H_90,Cajamarca,Extintores,-16.5842,-72.1985
+H_91,Huaraz,Sistemas de Riego,-5.1869,-78.9178
+H_92,Chiclayo,Fertilizantes,-4.2939,-78.2439
+H_93,Huaraz,Semillas,-6.841,-71.7319
+H_94,Huaraz,Agroquimicos,-10.7156,-70.1646
+H_95,Tarapoto,Maquinaria Ligera,-15.0082,-77.88
+H_96,Cercado de Lima,Generadores,-15.3877,-70.3245
+H_97,Puno,Compresoras,-3.242,-69.7069
+H_98,Tacna,Bombas de Agua,-13.3248,-78.4466
+H_99,Arequipa,Telas,-12.0212,-80.597
+H_100,Chimbote,Hilos,-6.7559,-80.7837
+I_1,Iquitos,Cuero,-16.809,-69.4752
+I_2,Huancayo,Artesanias,-15.4346,-76.5439
+I_3,Huancayo,Joyeria,-5.1646,-71.0677
+I_4,Cusco,Souvenirs,-4.5254,-74.0913
+I_5,Miraflores,Articulos de Fiesta,-5.7555,-78.0454
+I_6,Ayacucho,Papel Impreso,-11.9152,-79.1829
+I_7,Tacna,Carton,-6.1907,-69.8219
+I_8,Trujillo,Ceramica,-4.0723,-80.1529
+I_9,Trujillo,Bicicletas,-15.9005,-73.3397
+I_10,Puno,Colchones,-8.5585,-79.6481
+I_11,Arequipa,Electrodomesticos,-16.1407,-80.0144
+I_12,Piura,Repuestos Automotrices,-13.6356,-75.497
+I_13,Chimbote,Herramientas,-5.1575,-70.872
+I_14,Chiclayo,Juguetes,-8.7488,-71.0804
+I_15,Tarapoto,Ropa Deportiva,-6.5866,-71.7957
+I_16,Cajamarca,Calzado,-4.8453,-77.2319
+I_17,Ica,Electronica de Consumo,-15.4564,-72.9507
+I_18,Ayacucho,Libros,-9.1548,-80.9071
+I_19,Chimbote,Muebles de Oficina,-6.3307,-75.8417
+I_20,Iquitos,Instrumentos Musicales,-5.8379,-73.0454
+I_21,Tarapoto,Camaras,-12.6766,-71.4557
+I_22,Cajamarca,Celulares,-6.172,-71.1913
+I_23,Tacna,Linea Blanca,-10.809,-73.016
+I_24,Arequipa,Insumos Medicos,-5.1735,-77.6205
+I_25,Chimbote,Textiles,-14.4522,-69.3996
+I_26,Trujillo,Alimentos Secos,-6.8482,-70.5481
+I_27,Arequipa,Cereales,-11.0035,-79.5084
+I_28,Tacna,Bebidas,-5.6625,-77.108
+I_29,Ica,Neumaticos,-3.4988,-69.0722
+I_30,Pucallpa,Pinturas,-8.36,-71.6767
+I_31,Ica,Ferreteria,-12.7934,-74.8461
+I_32,Cajamarca,Iluminacion,-6.6892,-79.1182
+I_33,Chiclayo,Camping,-12.2976,-78.7463
+I_34,San Isidro,Papeleria,-9.6957,-74.9192
+I_35,Ica,Materiales de Construccion,-10.8924,-74.3086
+I_36,Chimbote,Jardineria,-9.5533,-72.4669
+I_37,Tarapoto,Mascotas,-17.3622,-69.6189
+I_38,Miraflores,Belleza,-17.8749,-73.7915
+I_39,Cercado de Lima,Relojeria,-6.0117,-71.0803
+I_40,Piura,Bolsos,-8.0644,-77.8762
+I_41,Ayacucho,Lentes,-8.5377,-75.9434
+I_42,Miraflores,Arte,-4.6753,-70.4376
+I_43,Ayacucho,Pesca,-4.1001,-69.5177
+I_44,Chimbote,Baterias,-13.1254,-77.0958
+I_45,Piura,Computo,-5.1973,-76.349
+I_46,Pucallpa,Audio Profesional,-12.5645,-70.9867
+I_47,San Isidro,Seguridad Industrial,-8.8713,-70.1957
+I_48,San Isidro,Cafe,-3.8399,-77.2583
+I_49,Puno,Cacao,-4.3657,-75.9347
+I_50,Iquitos,Vinos,-11.9484,-69.1728
+I_51,Miraflores,Equipos de Gimnasio,-4.2285,-75.7572
+I_52,Tacna,Drones,-7.178,-74.1692
+I_53,Tacna,Bicicletas Electricas,-16.1209,-79.5994
+I_54,Puno,Software,-4.0142,-71.119
+I_55,San Isidro,Paneles Solares,-7.7885,-69.028
+I_56,Pucallpa,Motores,-10.8434,-74.4057
+I_57,Huaraz,Quimicos,-6.4856,-73.7415
+I_58,Trujillo,Vidrios,-10.0141,-72.0164
+I_59,Huancayo,Material Quirurgico,-10.2612,-79.3287
+I_60,Ayacucho,Medicamentos,-5.7163,-76.9151
+I_61,Puno,Vacunas,-11.5462,-71.8322
+I_62,Ayacucho,Alimentos Congelados,-4.8143,-77.0845
+I_63,Cercado de Lima,Frutas,-9.9699,-77.3564
+I_64,Cercado de Lima,Verduras,-13.4393,-76.9797
+I_65,Ayacucho,Carnicos,-6.7221,-70.0852
+I_66,Chimbote,Lacteos,-3.9027,-79.7472
+I_67,Tarapoto,Panaderia Industrial,-4.4424,-79.2738
+I_68,Trujillo,Confiteria,-9.1042,-71.3922
+I_69,Tacna,Suministros Electricos,-5.3109,-70.9072
+I_70,Tacna,Tuberias,-13.3952,-73.1171
+I_71,San Isidro,Griferia,-14.2045,-69.4952
+I_72,Miraflores,Acabados de Construccion,-13.0608,-76.8718
+I_73,Chiclayo,Madera,-9.7903,-79.0429
+I_74,Huaraz,Acero,-5.2993,-74.2031
+I_75,Iquitos,Lubricantes,-12.76,-73.0936
+I_76,Huancayo,Aditivos,-8.3158,-72.0979
+I_77,Miraflores,Limpieza Industrial,-4.1576,-78.505
+I_78,Tarapoto,Empaques,-15.7848,-78.2617
+I_79,Cusco,Plasticos,-6.9843,-69.8585
+I_80,Iquitos,Fibras Opticas,-3.4514,-76.3332
+I_81,Huaraz,Componentes Electronicos,-13.0074,-75.4526
+I_82,Ayacucho,Robótica Educativa,-5.9777,-79.4617
+I_83,Cercado de Lima,Detergentes,-10.6242,-71.7622
+I_84,Huaraz,Cuidado Personal,-4.71,-70.1347
+I_85,Chiclayo,Suplementos,-4.031,-69.5848
+I_86,San Isidro,Equipos Dentales,-15.3826,-77.1993
+I_87,Chimbote,Laboratorio,-9.3067,-77.184
+I_88,Chimbote,Seguridad Vial,-5.0939,-72.9856
+I_89,Ayacucho,Uniformes,-3.0098,-75.4645
+I_90,Huaraz,Calzado Industrial,-17.4418,-70.0446
+I_91,Iquitos,Extintores,-7.1861,-72.9419
+I_92,Tacna,Sistemas de Riego,-15.2778,-78.7174
+I_93,Chimbote,Fertilizantes,-5.4408,-69.4464
+I_94,Chiclayo,Semillas,-15.9557,-78.1039
+I_95,Chiclayo,Agroquimicos,-5.6296,-77.7404
+I_96,Tarapoto,Maquinaria Ligera,-6.5172,-77.1082
+I_97,Tarapoto,Generadores,-8.7649,-79.7625
+I_98,Cercado de Lima,Compresoras,-14.941,-80.8194
+I_99,Iquitos,Bombas de Agua,-3.3251,-70.8799
+I_100,Miraflores,Telas,-10.7661,-73.4717
+J_1,Ica,Hilos,-4.3461,-71.0983
+J_2,Pucallpa,Cuero,-17.3298,-78.2474
+J_3,Chiclayo,Artesanias,-16.2374,-78.1051
+J_4,Tacna,Joyeria,-10.2198,-80.4787
+J_5,Piura,Souvenirs,-6.7018,-79.5337
+J_6,Pucallpa,Articulos de Fiesta,-16.0502,-79.0852
+J_7,Cusco,Papel Impreso,-5.7288,-69.7426
+J_8,Ayacucho,Carton,-12.4638,-72.4647
+J_9,Ayacucho,Ceramica,-7.6577,-76.8129
+J_10,Huancayo,Bicicletas,-6.3443,-74.5964
+J_11,Ica,Colchones,-11.5231,-72.0053
+J_12,Puno,Electrodomesticos,-8.9324,-74.4303
+J_13,Cercado de Lima,Repuestos Automotrices,-15.3929,-75.8557
+J_14,Ayacucho,Herramientas,-16.8807,-79.598
+J_15,Tacna,Juguetes,-8.3893,-75.3752
+J_16,Pucallpa,Ropa Deportiva,-6.5836,-71.5117
+J_17,Iquitos,Calzado,-17.8397,-79.0498
+J_18,Cusco,Electronica de Consumo,-14.1956,-77.3489
+J_19,Pucallpa,Libros,-7.6295,-77.8427
+J_20,Cusco,Muebles de Oficina,-6.574,-73.1974
+J_21,Arequipa,Instrumentos Musicales,-8.3134,-80.5364
+J_22,Trujillo,Camaras,-7.3819,-76.1823
+J_23,Piura,Celulares,-16.825,-69.6359
+J_24,Trujillo,Linea Blanca,-6.2958,-75.0716
+J_25,Arequipa,Insumos Medicos,-6.5417,-74.7944
+J_26,Pucallpa,Textiles,-12.3073,-77.5242
+J_27,Trujillo,Alimentos Secos,-12.4944,-70.6108
+J_28,Cajamarca,Cereales,-5.0875,-75.6712
+J_29,Arequipa,Bebidas,-7.44,-77.5154
+J_30,Iquitos,Neumaticos,-7.0878,-77.9321
+J_31,Chiclayo,Pinturas,-5.4619,-71.9365
+J_32,San Isidro,Ferreteria,-9.0718,-75.9022
+J_33,Piura,Iluminacion,-4.5645,-72.7635
+J_34,Huaraz,Camping,-14.8957,-80.3147
+J_35,Huaraz,Papeleria,-17.5431,-75.9389
+J_36,Huaraz,Materiales de Construccion,-11.2152,-77.9812
+J_37,Huaraz,Jardineria,-10.4819,-79.1267
+J_38,Ayacucho,Mascotas,-12.0024,-80.0364
+J_39,Chiclayo,Belleza,-8.2013,-77.2708
+J_40,Pucallpa,Relojeria,-14.1855,-71.1134
+J_41,Arequipa,Bolsos,-10.2559,-74.3924
+J_42,Chiclayo,Lentes,-13.699,-70.7914
+J_43,Ayacucho,Arte,-7.8329,-75.4963
+J_44,Tacna,Pesca,-16.105,-70.0699
+J_45,Piura,Baterias,-15.5409,-72.3028
+J_46,Huancayo,Computo,-13.7101,-74.3192
+J_47,Tacna,Audio Profesional,-5.1485,-70.2481
+J_48,Huancayo,Seguridad Industrial,-3.0024,-69.6918
+J_49,Iquitos,Cafe,-3.0215,-69.7172
+J_50,Cajamarca,Cacao,-11.1656,-69.0699
+J_51,Cercado de Lima,Vinos,-11.0622,-73.9361
+J_52,Arequipa,Equipos de Gimnasio,-11.5868,-77.264
+J_53,Puno,Drones,-16.9288,-72.7894
+J_54,Pucallpa,Bicicletas Electricas,-7.6101,-79.3824
+J_55,Pucallpa,Software,-3.7219,-76.7212
+J_56,Puno,Paneles Solares,-8.7974,-71.2487
+J_57,Cajamarca,Motores,-8.2012,-75.9387
+J_58,Huancayo,Quimicos,-6.5304,-69.1734
+J_59,Ica,Vidrios,-15.4744,-69.4564
+J_60,Ayacucho,Material Quirurgico,-9.5952,-79.0123
+J_61,Iquitos,Medicamentos,-13.8518,-72.7183
+J_62,Pucallpa,Vacunas,-12.1865,-80.1971
+J_63,Trujillo,Alimentos Congelados,-4.5202,-78.5349
+J_64,Huancayo,Frutas,-4.131,-79.1039
+J_65,Puno,Verduras,-9.1886,-76.7333
+J_66,Ica,Carnicos,-4.6287,-69.194
+J_67,Arequipa,Lacteos,-6.4182,-75.3388
+J_68,Tacna,Panaderia Industrial,-4.6417,-70.6576
+J_69,Miraflores,Confiteria,-9.0346,-80.0599
+J_70,Chimbote,Suministros Electricos,-4.2955,-76.1075
+J_71,Piura,Tuberias,-3.2893,-74.403
+J_72,Miraflores,Griferia,-8.3785,-76.6769
+J_73,Miraflores,Acabados de Construccion,-17.5316,-73.7394
+J_74,Ica,Madera,-6.9809,-69.2406
+J_75,Huancayo,Acero,-12.46,-79.6674
+J_76,Ica,Lubricantes,-7.9266,-78.2595
+J_77,Pucallpa,Aditivos,-6.0388,-79.5103
+J_78,Miraflores,Limpieza Industrial,-16.7419,-78.5354
+J_79,Piura,Empaques,-16.5434,-74.0662
+J_80,Cajamarca,Plasticos,-7.8423,-71.0625
+J_81,Chiclayo,Fibras Opticas,-16.9872,-80.9112
+J_82,Iquitos,Componentes Electronicos,-4.1661,-79.829
+J_83,Iquitos,Robótica Educativa,-7.8932,-69.3323
+J_84,Chiclayo,Detergentes,-7.4024,-75.81
+J_85,Chimbote,Cuidado Personal,-11.4635,-78.0371
+J_86,Tarapoto,Suplementos,-5.1496,-79.5142
+J_87,Cusco,Equipos Dentales,-5.6903,-80.8625
+J_88,Ica,Laboratorio,-16.1306,-80.445
+J_89,Miraflores,Seguridad Vial,-6.4831,-70.4686
+J_90,Tarapoto,Uniformes,-3.4818,-80.3371
+J_91,Trujillo,Calzado Industrial,-17.6544,-78.1436
+J_92,Piura,Extintores,-8.3955,-80.6544
+J_93,Ayacucho,Sistemas de Riego,-17.7113,-75.8756
+J_94,Chimbote,Fertilizantes,-8.0849,-75.3737
+J_95,Iquitos,Semillas,-10.2306,-77.4947
+J_96,Cercado de Lima,Agroquimicos,-3.5586,-79.7476
+J_97,Piura,Maquinaria Ligera,-16.1321,-73.6061
+J_98,Cusco,Generadores,-17.4547,-76.5346
+J_99,Cercado de Lima,Compresoras,-17.3086,-78.1607
+J_100,Miraflores,Bombas de Agua,-7.6585,-78.9024
+K_1,Cusco,Telas,-7.6818,-78.0713
+K_2,Tacna,Hilos,-10.6924,-73.5145
+K_3,Cajamarca,Cuero,-6.1803,-78.9253
+K_4,Cusco,Artesanias,-17.2744,-77.9894
+K_5,Cajamarca,Joyeria,-13.5884,-79.5664
+K_6,Piura,Souvenirs,-8.0397,-73.731
+K_7,Puno,Articulos de Fiesta,-3.2257,-78.439
+K_8,Ica,Papel Impreso,-9.7988,-79.6127
+K_9,Trujillo,Carton,-17.0977,-79.6511
+K_10,Trujillo,Ceramica,-4.1608,-78.6812
+K_11,Puno,Bicicletas,-6.9946,-69.7495
+K_12,San Isidro,Colchones,-15.454,-80.3132
+K_13,Arequipa,Electrodomesticos,-14.2204,-80.6278
+K_14,Huancayo,Repuestos Automotrices,-15.7605,-77.813
+K_15,Cusco,Herramientas,-14.5747,-73.9444
+K_16,San Isidro,Juguetes,-12.8243,-76.9668
+K_17,Ayacucho,Ropa Deportiva,-5.4036,-72.4268
+K_18,Trujillo,Calzado,-7.4757,-79.8196
+K_19,Piura,Electronica de Consumo,-11.5555,-76.9935
+K_20,Arequipa,Libros,-6.941,-80.0497
+K_21,Piura,Muebles de Oficina,-11.3145,-74.7036
+K_22,Tacna,Instrumentos Musicales,-5.7359,-72.8526
+K_23,Chimbote,Camaras,-5.7534,-75.6932
+K_24,Miraflores,Celulares,-14.8845,-77.7073
+K_25,Trujillo,Linea Blanca,-11.3606,-80.1494
+K_26,Huaraz,Insumos Medicos,-5.6646,-80.4308
+K_27,Cajamarca,Textiles,-16.1234,-79.1876
+K_28,Pucallpa,Alimentos Secos,-12.2943,-79.82
+K_29,San Isidro,Cereales,-6.1247,-76.0949
+K_30,Cercado de Lima,Bebidas,-8.7523,-80.5827
+K_31,Cusco,Neumaticos,-16.9669,-77.8995
+K_32,Pucallpa,Pinturas,-3.7155,-71.1894
+K_33,Huaraz,Ferreteria,-11.6202,-77.2042
+K_34,Tarapoto,Iluminacion,-15.1208,-78.9665
+K_35,Cusco,Camping,-16.0438,-75.8782
+K_36,Huaraz,Papeleria,-9.0541,-80.2348
+K_37,Puno,Materiales de Construccion,-15.9706,-69.205
+K_38,Cajamarca,Jardineria,-13.068,-75.032
+K_39,Cercado de Lima,Mascotas,-10.9763,-72.8123
+K_40,Piura,Belleza,-7.274,-75.2825
+K_41,Huancayo,Relojeria,-4.078,-78.2554
+K_42,Piura,Bolsos,-4.8842,-77.6606
+K_43,Miraflores,Lentes,-7.6603,-80.4974
+K_44,Tarapoto,Arte,-6.9202,-76.9139
+K_45,Ica,Pesca,-14.7046,-69.4147
+K_46,Puno,Baterias,-13.1041,-71.2031
+K_47,Tarapoto,Computo,-12.6943,-74.0597
+K_48,Ica,Audio Profesional,-16.3635,-75.7281
+K_49,Huancayo,Seguridad Industrial,-5.974,-78.1962
+K_50,Cusco,Cafe,-6.7643,-70.52
+K_51,Ica,Cacao,-15.2354,-79.3772
+K_52,San Isidro,Vinos,-11.9398,-76.8054
+K_53,Cusco,Equipos de Gimnasio,-12.8447,-78.0163
+K_54,Huaraz,Drones,-5.0751,-79.9745
+K_55,Ayacucho,Bicicletas Electricas,-16.5878,-72.719
+K_56,Miraflores,Software,-15.4693,-75.9216
+K_57,Miraflores,Paneles Solares,-5.7512,-74.0188
+K_58,Huancayo,Motores,-9.9394,-79.4365
+K_59,Chimbote,Quimicos,-4.5856,-78.4985
+K_60,Ayacucho,Vidrios,-10.1645,-72.6956
+K_61,Chiclayo,Material Quirurgico,-12.498,-72.413
+K_62,Cusco,Medicamentos,-6.4248,-79.6813
+K_63,Huaraz,Vacunas,-14.7794,-78.8655
+K_64,Iquitos,Alimentos Congelados,-16.1092,-76.2345
+K_65,Ica,Frutas,-7.391,-74.5445
+K_66,Cercado de Lima,Verduras,-13.3158,-79.3341
+K_67,Tacna,Carnicos,-9.2471,-77.2978
+K_68,Chimbote,Lacteos,-17.761,-74.0294
+K_69,Chiclayo,Panaderia Industrial,-11.0579,-78.5516
+K_70,Arequipa,Confiteria,-17.0815,-78.6876
+K_71,Chimbote,Suministros Electricos,-6.2019,-80.824
+K_72,Piura,Tuberias,-15.3954,-75.8933
+K_73,Iquitos,Griferia,-5.4381,-80.4835
+K_74,Piura,Acabados de Construccion,-17.5219,-73.5695
+K_75,Tarapoto,Madera,-7.0695,-75.9516
+K_76,Puno,Acero,-9.7923,-73.7871
+K_77,San Isidro,Lubricantes,-13.6529,-75.0093
+K_78,Cercado de Lima,Aditivos,-8.1987,-72.9322
+K_79,Tarapoto,Limpieza Industrial,-17.8682,-75.6143
+K_80,San Isidro,Empaques,-16.5508,-74.5048
+K_81,Miraflores,Plasticos,-15.599,-77.7771
+K_82,Arequipa,Fibras Opticas,-5.6989,-79.78
+K_83,Trujillo,Componentes Electronicos,-7.123,-71.8908
+K_84,Cercado de Lima,Robótica Educativa,-3.6956,-78.6046
+K_85,Chimbote,Detergentes,-15.1753,-76.7191
+K_86,Piura,Cuidado Personal,-4.5012,-74.8513
+K_87,Tacna,Suplementos,-11.6761,-74.6245
+K_88,Huancayo,Equipos Dentales,-11.201,-74.8807
+K_89,Cajamarca,Laboratorio,-16.4279,-71.3304
+K_90,Puno,Seguridad Vial,-16.9282,-77.1674
+K_91,Cusco,Uniformes,-6.0771,-71.8048
+K_92,Ica,Calzado Industrial,-12.192,-77.1506
+K_93,San Isidro,Extintores,-5.7723,-72.2387
+K_94,Pucallpa,Sistemas de Riego,-4.0715,-69.878
+K_95,Miraflores,Fertilizantes,-4.8076,-72.2383
+K_96,Puno,Semillas,-9.1452,-77.9108
+K_97,Piura,Agroquimicos,-16.2156,-74.4752
+K_98,Ayacucho,Maquinaria Ligera,-16.7502,-80.0882
+K_99,Pucallpa,Generadores,-16.2565,-73.7636
+K_100,Chiclayo,Compresoras,-9.5803,-80.0107
+L_1,San Isidro,Bombas de Agua,-8.1338,-70.3783
+L_2,Tacna,Telas,-8.5058,-71.886
+L_3,Ayacucho,Hilos,-12.3418,-71.8838
+L_4,Chiclayo,Cuero,-16.7302,-80.0085
+L_5,Arequipa,Artesanias,-14.9341,-80.5001
+L_6,Miraflores,Joyeria,-17.67,-72.9727
+L_7,Puno,Souvenirs,-7.2787,-74.5293
+L_8,Chimbote,Articulos de Fiesta,-15.0236,-78.4657
+L_9,Iquitos,Papel Impreso,-5.3082,-72.1786
+L_10,Piura,Carton,-16.9215,-76.3788
+L_11,Huaraz,Ceramica,-13.979,-76.6849
+L_12,Huaraz,Bicicletas,-3.5871,-69.4163
+L_13,Iquitos,Colchones,-8.7177,-78.7163
+L_14,Chiclayo,Electrodomesticos,-14.5138,-76.2034
+L_15,Piura,Repuestos Automotrices,-14.1456,-77.4602
+L_16,Tacna,Herramientas,-9.2003,-72.7099
+L_17,Tarapoto,Juguetes,-6.9339,-69.2299
+L_18,Cajamarca,Ropa Deportiva,-9.5052,-72.5683
+L_19,Ayacucho,Calzado,-13.6134,-78.853
+L_20,Huancayo,Electronica de Consumo,-3.5683,-77.1849
+L_21,Pucallpa,Libros,-12.6199,-74.7065
+L_22,Puno,Muebles de Oficina,-6.7765,-71.8602
+L_23,Piura,Instrumentos Musicales,-4.3675,-80.2953
+L_24,Arequipa,Camaras,-15.1626,-69.2449
+L_25,Arequipa,Celulares,-4.9405,-70.5788
+L_26,San Isidro,Linea Blanca,-8.3555,-71.4695
+L_27,Chimbote,Insumos Medicos,-3.8336,-72.5253
+L_28,Ayacucho,Textiles,-6.9718,-71.8401
+L_29,Trujillo,Alimentos Secos,-4.2366,-78.222
+L_30,Piura,Cereales,-8.667,-80.2847
+L_31,Tacna,Bebidas,-14.9677,-73.1475
+L_32,Cusco,Neumaticos,-8.5039,-72.3605
+L_33,Cercado de Lima,Pinturas,-17.1443,-75.0183
+L_34,Piura,Ferreteria,-15.3004,-77.94
+L_35,Chimbote,Iluminacion,-9.3733,-69.2943
+L_36,Pucallpa,Camping,-3.9371,-78.677
+L_37,Huaraz,Papeleria,-7.64,-77.0615
+L_38,Cusco,Materiales de Construccion,-12.0671,-76.3766
+L_39,Pucallpa,Jardineria,-9.0316,-79.5488
+L_40,Huaraz,Mascotas,-14.5212,-80.8976
+L_41,Cusco,Belleza,-3.6253,-77.1957
+L_42,San Isidro,Relojeria,-11.2889,-73.6992
+L_43,Piura,Bolsos,-16.0493,-69.1736
+L_44,San Isidro,Lentes,-14.2821,-79.3432
+L_45,Huancayo,Arte,-15.3855,-72.0312
+L_46,Tacna,Pesca,-17.4841,-69.8251
+L_47,Ayacucho,Baterias,-6.9908,-74.5704
+L_48,Puno,Computo,-14.0713,-69.9784
+L_49,Huaraz,Audio Profesional,-17.3499,-78.2966
+L_50,Ica,Seguridad Industrial,-17.3759,-73.8926
+L_51,Chimbote,Cafe,-7.7752,-69.7309
+L_52,Huancayo,Cacao,-8.0093,-69.3188
+L_53,Huaraz,Vinos,-17.4488,-70.071
+L_54,Piura,Equipos de Gimnasio,-17.3582,-73.8915
+L_55,Ayacucho,Drones,-13.2802,-72.9707
+L_56,Cusco,Bicicletas Electricas,-11.0556,-78.0203
+L_57,Cajamarca,Software,-14.6742,-70.0089
+L_58,Huancayo,Paneles Solares,-17.5474,-80.0783
+L_59,Trujillo,Motores,-5.8592,-74.0048
+L_60,Iquitos,Quimicos,-14.2212,-69.1898
+L_61,Huancayo,Vidrios,-5.4924,-78.6436
+L_62,Tarapoto,Material Quirurgico,-7.2308,-69.0476
+L_63,Ayacucho,Medicamentos,-10.7085,-77.994
+L_64,Tacna,Vacunas,-10.2286,-74.324
+L_65,Piura,Alimentos Congelados,-9.4488,-69.0077
+L_66,Cajamarca,Frutas,-4.1011,-71.3467
+L_67,Chiclayo,Verduras,-13.7425,-71.7248
+L_68,Chiclayo,Carnicos,-15.2725,-73.8648
+L_69,Miraflores,Lacteos,-17.0305,-76.7013
+L_70,Huancayo,Panaderia Industrial,-7.3594,-77.9292
+L_71,Trujillo,Confiteria,-3.4457,-72.9373
+L_72,Huaraz,Suministros Electricos,-8.5815,-75.7438
+L_73,Puno,Tuberias,-9.8139,-71.3818
+L_74,Chiclayo,Griferia,-11.6389,-74.1957
+L_75,Chimbote,Acabados de Construccion,-17.5006,-77.178
+L_76,Huancayo,Madera,-7.6555,-72.8451
+L_77,Ayacucho,Acero,-4.3988,-71.9398
+L_78,Cajamarca,Lubricantes,-13.9818,-78.6255
+L_79,Huaraz,Aditivos,-6.5924,-76.6086
+L_80,Chiclayo,Limpieza Industrial,-16.2092,-80.9023
+L_81,Puno,Empaques,-11.8131,-75.4805
+L_82,San Isidro,Plasticos,-3.2768,-79.2049
+L_83,Chimbote,Fibras Opticas,-12.3187,-71.0503
+L_84,Huancayo,Componentes Electronicos,-13.4628,-71.5312
+L_85,Tarapoto,Robótica Educativa,-7.4338,-73.6796
+L_86,Puno,Detergentes,-14.3259,-73.0258
+L_87,Ica,Cuidado Personal,-8.8525,-69.523
+L_88,Piura,Suplementos,-12.0447,-74.1463
+L_89,Pucallpa,Equipos Dentales,-9.1517,-78.3482
+L_90,Puno,Laboratorio,-8.0176,-71.9066
+L_91,Pucallpa,Seguridad Vial,-11.8634,-77.3805
+L_92,Pucallpa,Uniformes,-8.7636,-72.3281
+L_93,Trujillo,Calzado Industrial,-17.7948,-80.3885
+L_94,Ayacucho,Extintores,-13.6513,-69.7578
+L_95,Ica,Sistemas de Riego,-14.2117,-78.388
+L_96,Arequipa,Fertilizantes,-10.058,-79.5932
+L_97,Iquitos,Semillas,-12.4309,-73.6138
+L_98,Arequipa,Agroquimicos,-13.8888,-69.9275
+L_99,Puno,Maquinaria Ligera,-17.3024,-72.1223
+L_100,Tarapoto,Generadores,-13.0575,-78.826
+M_1,Tarapoto,Compresoras,-15.472,-80.637
+M_2,Huancayo,Bombas de Agua,-14.4987,-78.1223
+M_3,Iquitos,Telas,-10.4364,-71.8922
+M_4,Chimbote,Hilos,-11.8934,-73.8591
+M_5,Cercado de Lima,Cuero,-12.1002,-70.2082
+M_6,Huancayo,Artesanias,-11.0344,-80.0858
+M_7,Pucallpa,Joyeria,-17.8481,-77.2097
+M_8,Huancayo,Souvenirs,-5.0664,-72.082
+M_9,Tarapoto,Articulos de Fiesta,-13.3912,-75.0869
+M_10,Miraflores,Papel Impreso,-13.8568,-73.5834
+M_11,Cercado de Lima,Carton,-15.7332,-73.6199
+M_12,Piura,Ceramica,-7.0912,-74.1624
+M_13,Pucallpa,Bicicletas,-14.6857,-78.5936
+M_14,Puno,Colchones,-15.7463,-78.5426
+M_15,Huaraz,Electrodomesticos,-3.6452,-73.4658
+M_16,Chiclayo,Repuestos Automotrices,-12.3653,-74.9206
+M_17,Arequipa,Herramientas,-13.67,-76.4698
+M_18,Cercado de Lima,Juguetes,-8.6657,-69.0389
+M_19,Tacna,Ropa Deportiva,-5.5246,-75.3685
+M_20,Puno,Calzado,-6.4195,-69.0461
+M_21,San Isidro,Electronica de Consumo,-5.5378,-77.3543
+M_22,Pucallpa,Libros,-15.7989,-76.9532
+M_23,Iquitos,Muebles de Oficina,-5.1601,-76.6505
+M_24,Trujillo,Instrumentos Musicales,-8.9164,-77.7029
+M_25,San Isidro,Camaras,-13.2985,-80.8467
+M_26,Pucallpa,Celulares,-15.9614,-70.2183
+M_27,Cusco,Linea Blanca,-8.4281,-71.9074
+M_28,Trujillo,Insumos Medicos,-4.948,-69.468
+M_29,Arequipa,Textiles,-3.0195,-78.8446
+M_30,Pucallpa,Alimentos Secos,-17.495,-72.2347
+M_31,Cercado de Lima,Cereales,-17.4167,-79.4649
+M_32,Cusco,Bebidas,-13.4459,-73.3372
+M_33,Tarapoto,Neumaticos,-6.8645,-72.3197
+M_34,Puno,Pinturas,-12.5063,-74.0062
+M_35,Iquitos,Ferreteria,-6.4233,-73.4338
+M_36,Tacna,Iluminacion,-10.8871,-73.0106
+M_37,Huaraz,Camping,-17.4689,-72.1476
+M_38,Pucallpa,Papeleria,-10.6326,-77.1799
+M_39,Huaraz,Materiales de Construccion,-11.846,-71.2956
+M_40,Iquitos,Jardineria,-6.834,-71.7527
+M_41,Tarapoto,Mascotas,-15.593,-74.4596
+M_42,Cusco,Belleza,-10.2122,-70.9824
+M_43,Chimbote,Relojeria,-6.1923,-78.3675
+M_44,Piura,Bolsos,-11.5325,-77.9123
+M_45,Miraflores,Lentes,-7.5486,-69.2088
+M_46,Miraflores,Arte,-3.4047,-80.6335
+M_47,Piura,Pesca,-11.8772,-71.2263
+M_48,Huancayo,Baterias,-6.5604,-76.0868
+M_49,Arequipa,Computo,-6.9444,-74.3053
+M_50,Puno,Audio Profesional,-16.7434,-76.8087
+M_51,Piura,Seguridad Industrial,-5.1288,-79.2995
+M_52,San Isidro,Cafe,-16.3791,-76.0431
+M_53,Miraflores,Cacao,-17.9951,-73.5442
+M_54,Huaraz,Vinos,-5.727,-76.0151
+M_55,Tacna,Equipos de Gimnasio,-17.596,-79.144
+M_56,Arequipa,Drones,-7.686,-70.4419
+M_57,Huaraz,Bicicletas Electricas,-11.3149,-79.3331
+M_58,Miraflores,Software,-14.2994,-75.5792
+M_59,Pucallpa,Paneles Solares,-4.5659,-78.7017
+M_60,Pucallpa,Motores,-17.4381,-75.9449
+M_61,Huaraz,Quimicos,-8.5927,-75.5915
+M_62,Huaraz,Vidrios,-4.5311,-75.7013
+M_63,Miraflores,Material Quirurgico,-14.0518,-73.547
+M_64,Tarapoto,Medicamentos,-5.0483,-80.8107
+M_65,Huaraz,Vacunas,-11.6463,-70.827
+M_66,Huancayo,Alimentos Congelados,-11.5626,-78.3484
+M_67,Miraflores,Frutas,-16.151,-80.4129
+M_68,Arequipa,Verduras,-8.3436,-77.8487
+M_69,Tarapoto,Carnicos,-6.7404,-69.4361
+M_70,Trujillo,Lacteos,-11.7265,-77.9542
+M_71,Chimbote,Panaderia Industrial,-9.293,-75.3424
+M_72,Huancayo,Confiteria,-8.3206,-74.1816
+M_73,Huaraz,Suministros Electricos,-13.1821,-71.2626
+M_74,Cajamarca,Tuberias,-16.7988,-69.5324
+M_75,Tarapoto,Griferia,-4.6658,-75.0585
+M_76,Chimbote,Acabados de Construccion,-4.6816,-70.5277
+M_77,Chimbote,Madera,-9.9501,-80.1035
+M_78,Ayacucho,Acero,-8.2066,-75.4993
+M_79,Ica,Lubricantes,-4.1795,-78.4979
+M_80,Miraflores,Aditivos,-9.8005,-80.922
+M_81,Ayacucho,Limpieza Industrial,-12.8475,-78.0045
+M_82,Cercado de Lima,Empaques,-16.7432,-69.2809
+M_83,San Isidro,Plasticos,-12.4378,-79.4393
+M_84,Piura,Fibras Opticas,-5.7441,-73.8534
+M_85,Cercado de Lima,Componentes Electronicos,-4.0064,-69.4487
+M_86,Chiclayo,Robótica Educativa,-13.9734,-74.587
+M_87,Ica,Detergentes,-11.1322,-73.1525
+M_88,Cajamarca,Cuidado Personal,-4.0879,-75.5327
+M_89,San Isidro,Suplementos,-9.2627,-75.4814
+M_90,Trujillo,Equipos Dentales,-8.2672,-80.0981
+M_91,Chiclayo,Laboratorio,-7.566,-80.6702
+M_92,Chimbote,Seguridad Vial,-11.0898,-78.2667
+M_93,Tarapoto,Uniformes,-4.5669,-72.4416
+M_94,Piura,Calzado Industrial,-5.9276,-69.2303
+M_95,Ica,Extintores,-17.4511,-78.4546
+M_96,Trujillo,Sistemas de Riego,-15.6607,-71.1519
+M_97,Ica,Fertilizantes,-9.7376,-69.0777
+M_98,Miraflores,Semillas,-12.3614,-79.6992
+M_99,Pucallpa,Agroquimicos,-11.8668,-76.9889
+M_100,Puno,Maquinaria Ligera,-9.0014,-70.4874
+N_1,Ica,Generadores,-5.6558,-74.9693
+N_2,Piura,Compresoras,-11.069,-80.3905
+N_3,Puno,Bombas de Agua,-5.0783,-76.6151
+N_4,Ayacucho,Telas,-11.9496,-78.0388
+N_5,Iquitos,Hilos,-11.5473,-73.8733
+N_6,Huaraz,Cuero,-7.7803,-79.6739
+N_7,San Isidro,Artesanias,-11.3863,-74.9717
+N_8,Trujillo,Joyeria,-3.4601,-73.1575
+N_9,Chimbote,Souvenirs,-12.5281,-77.8831
+N_10,Iquitos,Articulos de Fiesta,-4.7396,-75.3423
+N_11,San Isidro,Papel Impreso,-16.3214,-80.5885
+N_12,Arequipa,Carton,-14.7026,-70.1402
+N_13,Miraflores,Ceramica,-8.6331,-70.7789
+N_14,Puno,Bicicletas,-10.1858,-75.3183
+N_15,Ica,Colchones,-15.6621,-71.8519
+N_16,Iquitos,Electrodomesticos,-5.2805,-79.0872
+N_17,Ayacucho,Repuestos Automotrices,-16.4327,-74.9544
+N_18,Chimbote,Herramientas,-16.6382,-74.6872
+N_19,Trujillo,Juguetes,-14.8836,-77.8263
+N_20,Chimbote,Ropa Deportiva,-16.0533,-75.0124
+N_21,Puno,Calzado,-15.865,-75.5849
+N_22,Ayacucho,Electronica de Consumo,-8.9271,-69.9442
+N_23,Trujillo,Libros,-3.1811,-71.1046
+N_24,Ayacucho,Muebles de Oficina,-14.7791,-69.1882
+N_25,Huaraz,Instrumentos Musicales,-3.0127,-74.0725
+N_26,Cercado de Lima,Camaras,-12.6311,-79.7869
+N_27,Miraflores,Celulares,-9.9386,-73.5508
+N_28,Puno,Linea Blanca,-16.8468,-79.534
+N_29,Chimbote,Insumos Medicos,-11.1195,-80.8177
+N_30,Puno,Textiles,-3.0603,-80.0407
+N_31,Miraflores,Alimentos Secos,-11.4838,-73.8481
+N_32,Puno,Cereales,-8.7881,-76.5447
+N_33,Huaraz,Bebidas,-17.1956,-72.4702
+N_34,Trujillo,Neumaticos,-6.5945,-80.7186
+N_35,Huaraz,Pinturas,-16.0621,-71.7035
+N_36,Chimbote,Ferreteria,-16.4942,-77.5249
+N_37,San Isidro,Iluminacion,-3.5646,-78.8741
+N_38,Ayacucho,Camping,-15.6872,-77.1506
+N_39,Piura,Papeleria,-17.6273,-80.3793
+N_40,Chiclayo,Materiales de Construccion,-9.2459,-75.7577
+N_41,Arequipa,Jardineria,-14.1705,-80.6837
+N_42,Trujillo,Mascotas,-16.9046,-70.4334
+N_43,Tarapoto,Belleza,-4.3638,-69.0503
+N_44,Huancayo,Relojeria,-7.5836,-78.9776
+N_45,Cusco,Bolsos,-11.3988,-69.3442
+N_46,Cajamarca,Lentes,-14.6245,-77.9366
+N_47,Chiclayo,Arte,-6.7231,-76.0293
+N_48,Pucallpa,Pesca,-15.2432,-78.5178
+N_49,Ayacucho,Baterias,-17.8521,-78.9313
+N_50,Chiclayo,Computo,-12.1189,-78.3185
+N_51,Miraflores,Audio Profesional,-6.2113,-80.5498
+N_52,Cusco,Seguridad Industrial,-10.4501,-71.8808
+N_53,Puno,Cafe,-8.7146,-73.0545
+N_54,Miraflores,Cacao,-3.8065,-73.0712
+N_55,Puno,Vinos,-16.6087,-71.9131
+N_56,Piura,Equipos de Gimnasio,-12.0967,-72.1797
+N_57,Cercado de Lima,Drones,-10.5546,-72.1223
+N_58,Chiclayo,Bicicletas Electricas,-12.2693,-77.9731
+N_59,Ica,Software,-9.0422,-73.5167
+N_60,Ica,Paneles Solares,-13.1245,-72.8663
+N_61,Ayacucho,Motores,-11.5069,-75.1346
+N_62,Cajamarca,Quimicos,-11.9909,-71.8472
+N_63,Piura,Vidrios,-3.7407,-71.634
+N_64,Miraflores,Material Quirurgico,-6.0711,-74.913
+N_65,Ayacucho,Medicamentos,-5.8245,-76.1689
+N_66,Chimbote,Vacunas,-6.2673,-75.6356
+N_67,Puno,Alimentos Congelados,-12.4447,-72.28
+N_68,Cercado de Lima,Frutas,-10.6547,-74.4564
+N_69,Pucallpa,Verduras,-7.281,-76.2669
+N_70,Arequipa,Carnicos,-10.1385,-69.0092
+N_71,Iquitos,Lacteos,-10.256,-74.3671
+N_72,Iquitos,Panaderia Industrial,-9.5566,-80.4464
+N_73,Pucallpa,Confiteria,-17.2349,-79.9565
+N_74,Trujillo,Suministros Electricos,-10.2598,-77.0458
+N_75,Iquitos,Tuberias,-13.6883,-79.0803
+N_76,Ayacucho,Griferia,-15.2733,-77.4469
+N_77,Puno,Acabados de Construccion,-12.3309,-76.4268
+N_78,Tacna,Madera,-14.0162,-72.2749
+N_79,Pucallpa,Acero,-13.7114,-71.3245
+N_80,Cercado de Lima,Lubricantes,-3.4133,-70.7367
+N_81,Cercado de Lima,Aditivos,-13.3547,-76.7181
+N_82,Cercado de Lima,Limpieza Industrial,-13.5922,-79.6013
+N_83,Huaraz,Empaques,-16.0131,-74.6068
+N_84,Huaraz,Plasticos,-7.2806,-71.4789
+N_85,Tacna,Fibras Opticas,-14.3453,-76.855
+N_86,Trujillo,Componentes Electronicos,-8.8306,-76.2566
+N_87,Arequipa,Robótica Educativa,-4.1782,-80.595
+N_88,Huaraz,Detergentes,-13.7195,-73.2263
+N_89,Miraflores,Cuidado Personal,-12.4527,-77.5296
+N_90,Huancayo,Suplementos,-13.8909,-76.2639
+N_91,Arequipa,Equipos Dentales,-5.9079,-75.84
+N_92,Cusco,Laboratorio,-17.5052,-76.7357
+N_93,Cercado de Lima,Seguridad Vial,-4.5588,-74.4417
+N_94,Huaraz,Uniformes,-11.3549,-71.621
+N_95,Tacna,Calzado Industrial,-15.2114,-72.5742
+N_96,Ica,Extintores,-12.2758,-69.1318
+N_97,San Isidro,Sistemas de Riego,-16.0656,-71.624
+N_98,Tarapoto,Fertilizantes,-9.5287,-77.3329
+N_99,Ayacucho,Semillas,-8.0164,-75.3175
+N_100,Ayacucho,Agroquimicos,-10.0252,-74.3787
+O_1,Tarapoto,Maquinaria Ligera,-7.0311,-75.4071
+O_2,Huancayo,Generadores,-11.878,-69.4218
+O_3,Huaraz,Compresoras,-5.6363,-76.5694
+O_4,Pucallpa,Bombas de Agua,-11.4903,-70.9353
+O_5,San Isidro,Telas,-16.2712,-70.6498
+O_6,Huaraz,Hilos,-13.5317,-74.3881
+O_7,Miraflores,Cuero,-4.845,-73.0839
+O_8,Chimbote,Artesanias,-5.8629,-70.5137
+O_9,Ayacucho,Joyeria,-17.1465,-78.6908
+O_10,Cajamarca,Souvenirs,-17.6133,-77.5436
+O_11,Trujillo,Articulos de Fiesta,-8.0649,-74.4006
+O_12,Huancayo,Papel Impreso,-15.1773,-71.1021
+O_13,Miraflores,Carton,-5.1364,-69.9691
+O_14,Chiclayo,Ceramica,-15.7669,-79.3649
+O_15,Arequipa,Bicicletas,-16.7979,-76.3401
+O_16,Miraflores,Colchones,-14.6509,-78.6616
+O_17,Chimbote,Electrodomesticos,-11.6826,-72.1908
+O_18,Cajamarca,Repuestos Automotrices,-11.1321,-70.898
+O_19,Chimbote,Herramientas,-9.7853,-78.9453
+O_20,Cusco,Juguetes,-15.7323,-72.8718
+O_21,San Isidro,Ropa Deportiva,-12.1921,-79.3134
+O_22,Chiclayo,Calzado,-13.5035,-70.7889
+O_23,Ayacucho,Electronica de Consumo,-13.2111,-74.0861
+O_24,Huaraz,Libros,-3.4104,-80.8047
+O_25,Chiclayo,Muebles de Oficina,-4.7897,-76.4932
+O_26,Chiclayo,Instrumentos Musicales,-8.427,-70.2396
+O_27,Piura,Camaras,-15.6151,-73.0947
+O_28,Miraflores,Celulares,-8.6454,-78.1715
+O_29,Arequipa,Linea Blanca,-10.4848,-70.9383
+O_30,Arequipa,Insumos Medicos,-16.5936,-71.3932
+O_31,Chiclayo,Textiles,-5.9623,-72.1997
+O_32,Arequipa,Alimentos Secos,-6.5588,-80.2791
+O_33,Piura,Cereales,-7.77,-74.5058
+O_34,Chiclayo,Bebidas,-17.1415,-79.517
+O_35,Huaraz,Neumaticos,-10.3403,-75.4356
+O_36,San Isidro,Pinturas,-12.7915,-78.3435
+O_37,Tacna,Ferreteria,-7.9449,-70.8264
+O_38,Huaraz,Iluminacion,-8.8478,-70.5276
+O_39,San Isidro,Camping,-8.6542,-73.7601
+O_40,Cusco,Papeleria,-12.9301,-79.2583
+O_41,Pucallpa,Materiales de Construccion,-3.8665,-72.5766
+O_42,Miraflores,Jardineria,-8.4582,-75.8042
+O_43,Tarapoto,Mascotas,-8.7145,-71.5956
+O_44,Miraflores,Belleza,-16.965,-70.9119
+O_45,Huaraz,Relojeria,-7.9534,-75.3456
+O_46,Puno,Bolsos,-7.5254,-72.103
+O_47,Ica,Lentes,-13.0544,-73.7375
+O_48,Ica,Arte,-7.6387,-74.7428
+O_49,Iquitos,Pesca,-5.649,-79.3705
+O_50,Huaraz,Baterias,-11.194,-70.9744
+O_51,Arequipa,Computo,-6.7861,-78.0525
+O_52,Arequipa,Audio Profesional,-10.4262,-79.8202
+O_53,Arequipa,Seguridad Industrial,-6.0108,-71.3813
+O_54,Ica,Cafe,-14.1734,-72.9428
+O_55,San Isidro,Cacao,-13.7955,-69.7198
+O_56,Huaraz,Vinos,-5.717,-73.0458
+O_57,Cercado de Lima,Equipos de Gimnasio,-4.1967,-74.0986
+O_58,Chiclayo,Drones,-12.3425,-75.9215
+O_59,Arequipa,Bicicletas Electricas,-7.2516,-70.7795
+O_60,Trujillo,Software,-6.0696,-78.7842
+O_61,Trujillo,Paneles Solares,-5.6077,-76.1224
+O_62,Arequipa,Motores,-6.4843,-71.6564
+O_63,Puno,Quimicos,-10.9864,-74.3141
+O_64,Huancayo,Vidrios,-12.5563,-76.4401
+O_65,Chimbote,Material Quirurgico,-17.8752,-80.0371
+O_66,Ayacucho,Medicamentos,-3.0899,-70.1589
+O_67,Miraflores,Vacunas,-12.2993,-76.6716
+O_68,Huaraz,Alimentos Congelados,-12.5485,-69.538
+O_69,Huaraz,Frutas,-16.4945,-72.9296
+O_70,Cajamarca,Verduras,-7.3265,-74.2853
+O_71,San Isidro,Carnicos,-5.9432,-72.8051
+O_72,Cajamarca,Lacteos,-15.0599,-72.7847
+O_73,Huaraz,Panaderia Industrial,-15.7717,-80.5831
+O_74,Puno,Confiteria,-11.7703,-75.0395
+O_75,Miraflores,Suministros Electricos,-17.111,-76.6516
+O_76,Iquitos,Tuberias,-6.022,-79.0898
+O_77,Miraflores,Griferia,-7.729,-73.6707
+O_78,Puno,Acabados de Construccion,-15.1581,-70.3516
+O_79,Cajamarca,Madera,-12.7546,-79.3486
+O_80,Cusco,Acero,-11.9667,-73.8884
+O_81,Huancayo,Lubricantes,-4.7184,-78.2024
+O_82,Huancayo,Aditivos,-9.7842,-74.8292
+O_83,Iquitos,Limpieza Industrial,-15.8438,-69.6409
+O_84,Chiclayo,Empaques,-6.3297,-75.5458
+O_85,Ayacucho,Plasticos,-5.2988,-72.3802
+O_86,Cajamarca,Fibras Opticas,-15.1586,-79.9177
+O_87,Cajamarca,Componentes Electronicos,-5.6397,-74.4874
+O_88,Chiclayo,Robótica Educativa,-13.9124,-77.6148
+O_89,Ica,Detergentes,-9.0142,-79.6174
+O_90,Chiclayo,Cuidado Personal,-10.5727,-73.1856
+O_91,Piura,Suplementos,-5.2643,-71.4282
+O_92,Trujillo,Equipos Dentales,-11.7851,-80.7698
+O_93,Tarapoto,Laboratorio,-3.7512,-72.0269
+O_94,San Isidro,Seguridad Vial,-13.996,-71.6127
+O_95,Chimbote,Uniformes,-13.3472,-75.3501
+O_96,Huaraz,Calzado Industrial,-12.036,-76.427
+O_97,Pucallpa,Extintores,-15.7729,-71.6415
+O_98,Chiclayo,Sistemas de Riego,-13.701,-70.3756
+O_99,Piura,Fertilizantes,-9.06,-80.0988
+O_100,Puno,Semillas,-6.5249,-71.0522
+P_1,Puno,Agroquimicos,-5.1297,-78.3198
+P_2,Tacna,Maquinaria Ligera,-7.1769,-71.1016
+P_3,Trujillo,Generadores,-10.4911,-72.5299
+P_4,Chiclayo,Compresoras,-7.2367,-74.3827
+P_5,Arequipa,Bombas de Agua,-12.9664,-69.6105
+P_6,Miraflores,Telas,-10.3706,-78.9424
+P_7,Cajamarca,Hilos,-3.3829,-69.1914
+P_8,Ayacucho,Cuero,-8.0453,-74.3301
+P_9,Ayacucho,Artesanias,-8.239,-79.3548
+P_10,Cajamarca,Joyeria,-8.1109,-78.557
+P_11,Chiclayo,Souvenirs,-12.307,-72.8694
+P_12,Trujillo,Articulos de Fiesta,-11.9463,-80.1421
+P_13,Tacna,Papel Impreso,-7.9041,-74.5272
+P_14,Miraflores,Carton,-4.6762,-74.0079
+P_15,Cajamarca,Ceramica,-12.7458,-77.7372
+P_16,Arequipa,Bicicletas,-5.0301,-78.8155
+P_17,Miraflores,Colchones,-9.7094,-77.0109
+P_18,Huaraz,Electrodomesticos,-4.9549,-76.5176
+P_19,Cajamarca,Repuestos Automotrices,-5.1985,-72.9214
+P_20,Arequipa,Herramientas,-6.4542,-77.5693
+P_21,Huancayo,Juguetes,-3.3703,-75.4885
+P_22,Huaraz,Ropa Deportiva,-10.2095,-78.4993
+P_23,Huancayo,Calzado,-10.1014,-70.4387
+P_24,Huancayo,Electronica de Consumo,-13.2689,-72.5958
+P_25,Ayacucho,Libros,-17.2535,-70.4324
+P_26,Puno,Muebles de Oficina,-5.0247,-78.4628
+P_27,Cercado de Lima,Instrumentos Musicales,-8.001,-70.2628
+P_28,Huancayo,Camaras,-8.7229,-77.0975
+P_29,Chimbote,Celulares,-6.5427,-69.2773
+P_30,Chiclayo,Linea Blanca,-17.6957,-80.5345
+P_31,Huaraz,Insumos Medicos,-3.3809,-75.5318
+P_32,Chimbote,Textiles,-3.4701,-78.0525
+P_33,Trujillo,Alimentos Secos,-9.5535,-73.8587
+P_34,Cusco,Cereales,-3.5228,-73.9672
+P_35,Arequipa,Bebidas,-12.8503,-75.3197
+P_36,Chimbote,Neumaticos,-12.826,-78.4278
+P_37,Cusco,Pinturas,-3.4875,-76.5664
+P_38,Ayacucho,Ferreteria,-9.787,-71.0151
+P_39,Tarapoto,Iluminacion,-5.2788,-77.1752
+P_40,Ayacucho,Camping,-13.6667,-77.5767
+P_41,San Isidro,Papeleria,-11.776,-69.7192
+P_42,Huancayo,Materiales de Construccion,-9.4079,-70.3283
+P_43,Pucallpa,Jardineria,-17.059,-71.1309
+P_44,Cercado de Lima,Mascotas,-11.505,-80.2833
+P_45,San Isidro,Belleza,-16.9206,-73.7611
+P_46,Huancayo,Relojeria,-15.9907,-70.835
+P_47,Trujillo,Bolsos,-12.518,-77.9659
+P_48,Puno,Lentes,-15.7975,-71.3912
+P_49,Ica,Arte,-4.796,-78.3524
+P_50,Trujillo,Pesca,-11.8538,-78.3156
+P_51,Chiclayo,Baterias,-3.5673,-69.4051
+P_52,Miraflores,Computo,-14.2887,-78.186
+P_53,Tacna,Audio Profesional,-6.9764,-77.6338
+P_54,Pucallpa,Seguridad Industrial,-5.7855,-76.2474
+P_55,Arequipa,Cafe,-12.4725,-69.5434
+P_56,Tacna,Cacao,-14.0064,-80.2947
+P_57,Ica,Vinos,-4.3599,-74.6177
+P_58,Miraflores,Equipos de Gimnasio,-15.3865,-69.1986
+P_59,Ica,Drones,-11.4449,-71.9634
+P_60,Trujillo,Bicicletas Electricas,-6.3594,-74.0846
+P_61,Huancayo,Software,-6.0262,-77.2425
+P_62,Cercado de Lima,Paneles Solares,-13.2596,-76.308
+P_63,Chiclayo,Motores,-10.1274,-70.614
+P_64,Cercado de Lima,Quimicos,-16.7911,-78.4451
+P_65,Trujillo,Vidrios,-13.8935,-79.6796
+P_66,Puno,Material Quirurgico,-14.5459,-78.2845
+P_67,Huaraz,Medicamentos,-12.5445,-80.3571
+P_68,Tarapoto,Vacunas,-7.9119,-79.028
+P_69,Miraflores,Alimentos Congelados,-7.0619,-72.5344
+P_70,Puno,Frutas,-7.0031,-72.7335
+P_71,Cusco,Verduras,-3.5319,-73.6056
+P_72,Chiclayo,Carnicos,-14.381,-77.5299
+P_73,Piura,Lacteos,-13.3409,-78.2121
+P_74,Chiclayo,Panaderia Industrial,-14.5876,-71.5795
+P_75,San Isidro,Confiteria,-5.4373,-77.5377
+P_76,Huancayo,Suministros Electricos,-8.552,-78.5111
+P_77,Ayacucho,Tuberias,-10.278,-70.6233
+P_78,Miraflores,Griferia,-9.3885,-78.8915
+P_79,Tarapoto,Acabados de Construccion,-8.9359,-80.5746
+P_80,San Isidro,Madera,-15.9918,-75.5401
+P_81,Puno,Acero,-15.3173,-70.7673
+P_82,Cajamarca,Lubricantes,-4.3269,-71.7153
+P_83,Puno,Aditivos,-7.3238,-70.1105
+P_84,Miraflores,Limpieza Industrial,-7.655,-79.7158
+P_85,Ica,Empaques,-14.9163,-74.9205
+P_86,Chimbote,Plasticos,-10.5251,-73.4361
+P_87,Ayacucho,Fibras Opticas,-9.485,-77.0611
+P_88,Ayacucho,Componentes Electronicos,-3.4695,-69.367
+P_89,Ica,Robótica Educativa,-9.6552,-69.1606
+P_90,Cusco,Detergentes,-10.7194,-72.1729
+P_91,Trujillo,Cuidado Personal,-15.711,-78.4877
+P_92,Cajamarca,Suplementos,-11.1603,-73.2358
+P_93,Pucallpa,Equipos Dentales,-14.6655,-79.163
+P_94,Chimbote,Laboratorio,-5.3859,-70.8327
+P_95,Ayacucho,Seguridad Vial,-12.8819,-70.6309
+P_96,Cusco,Uniformes,-5.8007,-80.3178
+P_97,Huancayo,Calzado Industrial,-11.2246,-72.7467
+P_98,Cercado de Lima,Extintores,-12.4415,-80.0937
+P_99,Trujillo,Sistemas de Riego,-17.2387,-73.3481
+P_100,Tarapoto,Fertilizantes,-13.3809,-72.4489
+Q_1,Arequipa,Semillas,-8.376,-71.32
+Q_2,San Isidro,Agroquimicos,-17.5451,-77.3903
+Q_3,Pucallpa,Maquinaria Ligera,-3.0227,-70.6483
+Q_4,Pucallpa,Generadores,-13.5672,-72.1739
+Q_5,Tacna,Compresoras,-12.7886,-79.9712
+Q_6,Chimbote,Bombas de Agua,-13.2303,-75.548
+Q_7,Huancayo,Telas,-5.1417,-77.4487
+Q_8,Iquitos,Hilos,-9.4181,-77.6629
+Q_9,Miraflores,Cuero,-13.7354,-76.373
+Q_10,Trujillo,Artesanias,-10.1653,-70.7241
+Q_11,Chimbote,Joyeria,-6.6582,-79.6508
+Q_12,Tarapoto,Souvenirs,-5.7138,-79.8542
+Q_13,Ica,Articulos de Fiesta,-11.3955,-70.1177
+Q_14,Ica,Papel Impreso,-16.6717,-77.9196
+Q_15,Huaraz,Carton,-15.9249,-70.4676
+Q_16,Huaraz,Ceramica,-10.6811,-71.6605
+Q_17,Trujillo,Bicicletas,-6.194,-69.1381
+Q_18,Cusco,Colchones,-5.4818,-70.1836
+Q_19,Chiclayo,Electrodomesticos,-13.2376,-75.1848
+Q_20,Chimbote,Repuestos Automotrices,-9.6902,-75.64
+Q_21,Chiclayo,Herramientas,-16.2912,-70.2816
+Q_22,Tacna,Juguetes,-4.4894,-71.4432
+Q_23,Arequipa,Ropa Deportiva,-9.4651,-71.0911
+Q_24,Ayacucho,Calzado,-7.3321,-80.0535
+Q_25,Puno,Electronica de Consumo,-6.7326,-78.7289
+Q_26,Trujillo,Libros,-15.1617,-71.4122
+Q_27,Arequipa,Muebles de Oficina,-7.2333,-79.0372
+Q_28,Ayacucho,Instrumentos Musicales,-14.9013,-69.7642
+Q_29,Miraflores,Camaras,-15.8833,-77.7961
+Q_30,San Isidro,Celulares,-17.0895,-74.6315
+Q_31,Tarapoto,Linea Blanca,-8.6542,-71.8503
+Q_32,Ayacucho,Insumos Medicos,-16.2823,-71.9252
+Q_33,Ica,Textiles,-14.1872,-70.8702
+Q_34,Tacna,Alimentos Secos,-6.6834,-80.3755
+Q_35,Iquitos,Cereales,-12.465,-70.8083
+Q_36,Chimbote,Bebidas,-15.099,-76.4425
+Q_37,Iquitos,Neumaticos,-5.7115,-73.848
+Q_38,Piura,Pinturas,-11.7709,-75.9087
+Q_39,Arequipa,Ferreteria,-7.8655,-74.872
+Q_40,San Isidro,Iluminacion,-17.3928,-70.6219
+Q_41,Ayacucho,Camping,-14.0899,-77.6301
+Q_42,Piura,Papeleria,-16.2028,-73.9914
+Q_43,Chiclayo,Materiales de Construccion,-14.5229,-80.7916
+Q_44,San Isidro,Jardineria,-16.327,-77.4528
+Q_45,Tarapoto,Mascotas,-12.5196,-74.8899
+Q_46,Piura,Belleza,-16.2002,-78.5204
+Q_47,Tarapoto,Relojeria,-16.4817,-78.2739
+Q_48,Ayacucho,Bolsos,-4.1004,-69.4002
+Q_49,Iquitos,Lentes,-10.7676,-73.9659
+Q_50,Arequipa,Arte,-15.9466,-74.1542
+Q_51,Cusco,Pesca,-6.0035,-73.4704
+Q_52,Cusco,Baterias,-4.5734,-78.1299
+Q_53,Cusco,Computo,-17.6674,-78.1179
+Q_54,San Isidro,Audio Profesional,-17.3611,-76.0942
+Q_55,Arequipa,Seguridad Industrial,-10.4601,-80.0683
+Q_56,Arequipa,Cafe,-7.01,-73.2391
+Q_57,Cercado de Lima,Cacao,-17.2559,-75.6066
+Q_58,Huaraz,Vinos,-17.4265,-79.267
+Q_59,Pucallpa,Equipos de Gimnasio,-3.6502,-70.5705
+Q_60,Iquitos,Drones,-12.456,-73.4274
+Q_61,Chiclayo,Bicicletas Electricas,-14.0775,-77.1324
+Q_62,Trujillo,Software,-7.9259,-69.6101
+Q_63,Huancayo,Paneles Solares,-11.0905,-80.1752
+Q_64,Miraflores,Motores,-13.1936,-71.2055
+Q_65,Cercado de Lima,Quimicos,-7.8139,-69.1084
+Q_66,Puno,Vidrios,-17.392,-77.2604
+Q_67,Ica,Material Quirurgico,-11.4795,-69.6532
+Q_68,Iquitos,Medicamentos,-16.5203,-69.6382
+Q_69,Iquitos,Vacunas,-7.2769,-79.7341
+Q_70,Miraflores,Alimentos Congelados,-3.9795,-74.669
+Q_71,Puno,Frutas,-12.7607,-78.239
+Q_72,Chiclayo,Verduras,-17.5333,-72.9986
+Q_73,Cercado de Lima,Carnicos,-6.917,-76.9921
+Q_74,Arequipa,Lacteos,-10.3387,-72.9681
+Q_75,Cercado de Lima,Panaderia Industrial,-3.2271,-69.694
+Q_76,Tarapoto,Confiteria,-8.5538,-78.1769
+Q_77,Ayacucho,Suministros Electricos,-8.9738,-75.7207
+Q_78,Cusco,Tuberias,-3.8078,-76.1328
+Q_79,San Isidro,Griferia,-9.3587,-75.5852
+Q_80,Miraflores,Acabados de Construccion,-3.4638,-69.085
+Q_81,Cajamarca,Madera,-14.3054,-76.0027
+Q_82,Ica,Acero,-7.8719,-76.5827
+Q_83,Pucallpa,Lubricantes,-12.9684,-71.9855
+Q_84,Tarapoto,Aditivos,-6.2997,-74.1735
+Q_85,Trujillo,Limpieza Industrial,-11.631,-73.5867
+Q_86,Puno,Empaques,-15.4271,-72.0427
+Q_87,Cajamarca,Plasticos,-17.4555,-73.6784
+Q_88,San Isidro,Fibras Opticas,-13.688,-71.0677
+Q_89,Tacna,Componentes Electronicos,-8.7955,-70.6081
+Q_90,Chiclayo,Robótica Educativa,-10.1725,-79.4862
+Q_91,Tacna,Detergentes,-3.2992,-80.1808
+Q_92,Ayacucho,Cuidado Personal,-7.8258,-70.9533
+Q_93,Huancayo,Suplementos,-17.205,-75.259
+Q_94,Cusco,Equipos Dentales,-15.4339,-75.7394
+Q_95,Piura,Laboratorio,-16.8491,-75.0595
+Q_96,Huaraz,Seguridad Vial,-17.0039,-74.3346
+Q_97,Ica,Uniformes,-6.8975,-78.9074
+Q_98,Tarapoto,Calzado Industrial,-15.5748,-78.7838
+Q_99,Chiclayo,Extintores,-10.7364,-76.0364
+Q_100,Trujillo,Sistemas de Riego,-4.3712,-77.7022
+R_1,Ica,Fertilizantes,-4.2895,-76.0222
+R_2,Tacna,Semillas,-13.6038,-70.514
+R_3,Pucallpa,Agroquimicos,-8.6935,-77.9434
+R_4,Puno,Maquinaria Ligera,-10.7074,-75.357
+R_5,Cercado de Lima,Generadores,-9.6622,-80.5987
+R_6,Piura,Compresoras,-5.336,-75.2096
+R_7,San Isidro,Bombas de Agua,-13.2509,-77.3194
+R_8,Ayacucho,Telas,-7.2485,-74.7938
+R_9,Arequipa,Hilos,-15.659,-77.3205
+R_10,Ica,Cuero,-10.0693,-71.1587
+R_11,Cajamarca,Artesanias,-5.8629,-79.8173
+R_12,Puno,Joyeria,-8.3807,-80.8084
+R_13,San Isidro,Souvenirs,-10.3826,-77.9238
+R_14,Huaraz,Articulos de Fiesta,-12.0083,-74.7622
+R_15,Ayacucho,Papel Impreso,-6.9734,-70.2856
+R_16,Piura,Carton,-15.6869,-80.5836
+R_17,Tacna,Ceramica,-14.6689,-72.1586
+R_18,Iquitos,Bicicletas,-6.6238,-79.8687
+R_19,Ica,Colchones,-5.9289,-73.3061
+R_20,Ica,Electrodomesticos,-9.4975,-79.3013
+R_21,Chiclayo,Repuestos Automotrices,-5.142,-74.9698
+R_22,Cercado de Lima,Herramientas,-13.1359,-73.3831
+R_23,Cusco,Juguetes,-3.7518,-73.0489
+R_24,Ica,Ropa Deportiva,-7.7771,-76.9189
+R_25,Piura,Calzado,-4.6733,-80.1846
+R_26,Chimbote,Electronica de Consumo,-13.2558,-75.4055
+R_27,Pucallpa,Libros,-11.0824,-75.2344
+R_28,Ica,Muebles de Oficina,-15.9453,-76.4393
+R_29,San Isidro,Instrumentos Musicales,-8.8397,-70.8259
+R_30,Tacna,Camaras,-7.1382,-77.4519
+R_31,Chiclayo,Celulares,-5.4773,-69.7069
+R_32,Ica,Linea Blanca,-14.6261,-72.5994
+R_33,San Isidro,Insumos Medicos,-6.0414,-69.8588
+R_34,Chimbote,Textiles,-8.9971,-69.6789
+R_35,Chiclayo,Alimentos Secos,-9.5661,-69.2697
+R_36,Pucallpa,Cereales,-11.4049,-69.8807
+R_37,Tacna,Bebidas,-7.1752,-75.5645
+R_38,Miraflores,Neumaticos,-9.0429,-71.4024
+R_39,Huaraz,Pinturas,-16.8119,-70.1592
+R_40,San Isidro,Ferreteria,-12.3346,-76.4958
+R_41,Cercado de Lima,Iluminacion,-9.8336,-77.1687
+R_42,Chiclayo,Camping,-16.867,-71.9173
+R_43,Chimbote,Papeleria,-16.9354,-78.3827
+R_44,Chimbote,Materiales de Construccion,-14.1678,-74.6575
+R_45,Chiclayo,Jardineria,-5.4941,-78.9175
+R_46,Tarapoto,Mascotas,-5.2073,-75.2237
+R_47,Miraflores,Belleza,-8.5165,-73.7038
+R_48,Ica,Relojeria,-17.9402,-74.4598
+R_49,Tacna,Bolsos,-13.6896,-75.3591
+R_50,Pucallpa,Lentes,-12.6456,-78.1792
+R_51,Chimbote,Arte,-17.1384,-75.9513
+R_52,Pucallpa,Pesca,-14.8381,-78.256
+R_53,Trujillo,Baterias,-8.2551,-72.194
+R_54,Chiclayo,Computo,-6.2158,-69.0429
+R_55,Iquitos,Audio Profesional,-14.5702,-80.2103
+R_56,Huaraz,Seguridad Industrial,-14.569,-72.3061
+R_57,Miraflores,Cafe,-15.6939,-75.8895
+R_58,Cusco,Cacao,-7.8304,-75.3487
+R_59,Miraflores,Vinos,-10.4209,-79.4322
+R_60,Pucallpa,Equipos de Gimnasio,-15.6892,-69.4053
+R_61,Huancayo,Drones,-5.9034,-73.1787
+R_62,Ayacucho,Bicicletas Electricas,-6.032,-77.6311
+R_63,Arequipa,Software,-8.5576,-73.593
+R_64,Miraflores,Paneles Solares,-13.7386,-80.6444
+R_65,Huaraz,Motores,-13.5501,-80.1246
+R_66,Tacna,Quimicos,-14.5842,-72.6444
+R_67,Huancayo,Vidrios,-13.1151,-80.3541
+R_68,Puno,Material Quirurgico,-17.8074,-70.7412
+R_69,Chimbote,Medicamentos,-15.6575,-76.0132
+R_70,Trujillo,Vacunas,-11.5809,-75.3832
+R_71,Miraflores,Alimentos Congelados,-13.435,-72.0418
+R_72,Cusco,Frutas,-14.3514,-71.2937
+R_73,Iquitos,Verduras,-14.5724,-80.0663
+R_74,Miraflores,Carnicos,-15.1591,-71.9473
+R_75,Chimbote,Lacteos,-11.3235,-69.916
+R_76,Ayacucho,Panaderia Industrial,-11.1763,-72.2936
+R_77,Cercado de Lima,Confiteria,-11.5439,-71.18
+R_78,Ica,Suministros Electricos,-14.2411,-69.4608
+R_79,Chimbote,Tuberias,-17.1808,-77.7148
+R_80,Tacna,Griferia,-11.3912,-75.4159
+R_81,Huaraz,Acabados de Construccion,-16.5179,-74.5489
+R_82,Huaraz,Madera,-9.2559,-71.3834
+R_83,Chiclayo,Acero,-5.2946,-70.913
+R_84,Ayacucho,Lubricantes,-12.4921,-73.2663
+R_85,Chiclayo,Aditivos,-3.9084,-78.6226
+R_86,Ayacucho,Limpieza Industrial,-6.1736,-70.2846
+R_87,Tarapoto,Empaques,-6.4874,-73.9749
+R_88,Huaraz,Plasticos,-4.8194,-79.7393
+R_89,San Isidro,Fibras Opticas,-15.2109,-79.9619
+R_90,Pucallpa,Componentes Electronicos,-3.2232,-75.6358
+R_91,Huancayo,Robótica Educativa,-9.2881,-74.7439
+R_92,Cajamarca,Detergentes,-12.0371,-78.7818
+R_93,Ica,Cuidado Personal,-10.3339,-70.836
+R_94,Chimbote,Suplementos,-13.3497,-75.7631
+R_95,Huaraz,Equipos Dentales,-12.8658,-69.7853
+R_96,Huaraz,Laboratorio,-7.5082,-76.5455
+R_97,Arequipa,Seguridad Vial,-9.3024,-74.0618
+R_98,Ayacucho,Uniformes,-4.8776,-70.7781
+R_99,Arequipa,Calzado Industrial,-17.7749,-74.2515
+R_100,Puno,Extintores,-8.3182,-78.8453
+S_1,Tacna,Sistemas de Riego,-11.7899,-74.2812
+S_2,Huancayo,Fertilizantes,-10.451,-72.7727
+S_3,Tacna,Semillas,-13.1328,-78.2736
+S_4,Chiclayo,Agroquimicos,-11.865,-77.2909
+S_5,Arequipa,Maquinaria Ligera,-5.0441,-71.5544
+S_6,Iquitos,Generadores,-7.53,-75.6203
+S_7,Piura,Compresoras,-8.2437,-80.6469
+S_8,Trujillo,Bombas de Agua,-10.5937,-79.7092
+S_9,Miraflores,Telas,-17.235,-79.6742
+S_10,Puno,Hilos,-4.2904,-73.7672
+S_11,Tacna,Cuero,-14.832,-72.466
+S_12,Ica,Artesanias,-6.109,-71.7349
+S_13,Ayacucho,Joyeria,-15.1581,-74.423
+S_14,Pucallpa,Souvenirs,-6.2455,-76.0837
+S_15,Pucallpa,Articulos de Fiesta,-7.6746,-74.1286
+S_16,Ayacucho,Papel Impreso,-9.2074,-80.1626
+S_17,Piura,Carton,-17.949,-76.7832
+S_18,Huancayo,Ceramica,-6.0084,-75.7031
+S_19,Tacna,Bicicletas,-5.4376,-75.456
+S_20,Chimbote,Colchones,-4.3688,-73.6795
+S_21,San Isidro,Electrodomesticos,-14.8863,-73.3454
+S_22,Chiclayo,Repuestos Automotrices,-10.6894,-70.9818
+S_23,Puno,Herramientas,-4.253,-75.1011
+S_24,Cusco,Juguetes,-10.2643,-78.8599
+S_25,Miraflores,Ropa Deportiva,-15.3489,-71.5675
+S_26,Tarapoto,Calzado,-5.3507,-78.6844
+S_27,Tacna,Electronica de Consumo,-11.2622,-75.873
+S_28,Huaraz,Libros,-13.7422,-79.4584
+S_29,Cajamarca,Muebles de Oficina,-3.1936,-73.8991
+S_30,Tacna,Instrumentos Musicales,-17.8492,-76.7171
+S_31,San Isidro,Camaras,-8.0743,-79.1444
+S_32,Chiclayo,Celulares,-17.3059,-70.1829
+S_33,Ayacucho,Linea Blanca,-10.9084,-80.1571
+S_34,Iquitos,Insumos Medicos,-13.6199,-74.8378
+S_35,Ica,Textiles,-4.2465,-73.5307
+S_36,Tacna,Alimentos Secos,-12.3023,-76.7475
+S_37,Pucallpa,Cereales,-12.6321,-80.7051
+S_38,Piura,Bebidas,-14.7415,-75.9802
+S_39,Puno,Neumaticos,-3.3322,-69.0944
+S_40,Iquitos,Pinturas,-9.2676,-71.2047
+S_41,Tacna,Ferreteria,-11.4671,-76.5281
+S_42,Arequipa,Iluminacion,-5.0426,-71.2878
+S_43,Puno,Camping,-8.828,-77.6366
+S_44,Tacna,Papeleria,-16.9461,-80.7356
+S_45,Chiclayo,Materiales de Construccion,-12.1468,-74.4719
+S_46,Ica,Jardineria,-8.4423,-70.718
+S_47,Cercado de Lima,Mascotas,-17.9235,-70.1224
+S_48,Chimbote,Belleza,-9.5395,-77.7307
+S_49,Chimbote,Relojeria,-6.9429,-72.6333
+S_50,Ayacucho,Bolsos,-11.4009,-69.438
+S_51,Pucallpa,Lentes,-14.5482,-76.8611
+S_52,Arequipa,Arte,-15.5739,-70.0049
+S_53,Trujillo,Pesca,-14.363,-73.995
+S_54,Iquitos,Baterias,-15.908,-80.1376
+S_55,Huaraz,Computo,-7.683,-76.5066
+S_56,Ayacucho,Audio Profesional,-11.6507,-71.3015
+S_57,Trujillo,Seguridad Industrial,-17.8407,-79.6701
+S_58,Tarapoto,Cafe,-9.4666,-73.2193
+S_59,Puno,Cacao,-14.0956,-78.1906
+S_60,Iquitos,Vinos,-8.9828,-80.6807
+S_61,Cajamarca,Equipos de Gimnasio,-12.0349,-69.3489
+S_62,Ica,Drones,-7.6539,-77.8298
+S_63,Ayacucho,Bicicletas Electricas,-5.8107,-73.7452
+S_64,Tarapoto,Software,-6.251,-71.961
+S_65,Chiclayo,Paneles Solares,-6.0672,-71.3305
+S_66,San Isidro,Motores,-9.7477,-77.2671
+S_67,Tacna,Quimicos,-3.2406,-76.1263
+S_68,Puno,Vidrios,-14.7941,-79.5176
+S_69,Ica,Material Quirurgico,-15.6514,-73.8858
+S_70,Tarapoto,Medicamentos,-9.3976,-71.8773
+S_71,Trujillo,Vacunas,-8.4303,-74.2768
+S_72,Miraflores,Alimentos Congelados,-8.3859,-69.984
+S_73,Puno,Frutas,-14.4906,-69.4901
+S_74,Cajamarca,Verduras,-12.1409,-78.5507
+S_75,Cusco,Carnicos,-12.1198,-77.8942
+S_76,Tacna,Lacteos,-15.6739,-80.0444
+S_77,Huancayo,Panaderia Industrial,-5.116,-69.0568
+S_78,Huaraz,Confiteria,-17.2011,-79.0896
+S_79,Tacna,Suministros Electricos,-14.856,-72.4425
+S_80,Cajamarca,Tuberias,-13.2751,-79.7137
+S_81,Cercado de Lima,Griferia,-13.407,-72.6696
+S_82,Miraflores,Acabados de Construccion,-12.8613,-69.1437
+S_83,Pucallpa,Madera,-14.2222,-79.0979
+S_84,Cercado de Lima,Acero,-4.1906,-80.1672
+S_85,Piura,Lubricantes,-16.1375,-80.7427
+S_86,Pucallpa,Aditivos,-4.2646,-77.1597
+S_87,Piura,Limpieza Industrial,-14.2632,-69.5816
+S_88,Puno,Empaques,-14.6559,-80.9822
+S_89,Ica,Plasticos,-8.3086,-72.3843
+S_90,Arequipa,Fibras Opticas,-15.0575,-76.7606
+S_91,Piura,Componentes Electronicos,-5.2946,-70.3647
+S_92,Trujillo,Robótica Educativa,-3.9818,-79.9734
+S_93,Chiclayo,Detergentes,-13.6417,-80.1636
+S_94,San Isidro,Cuidado Personal,-5.242,-75.6826
+S_95,Chiclayo,Suplementos,-12.8083,-72.5222
+S_96,Iquitos,Equipos Dentales,-12.6089,-76.1865
+S_97,Pucallpa,Laboratorio,-5.5216,-72.3114
+S_98,Ayacucho,Seguridad Vial,-16.3886,-75.2739
+S_99,Trujillo,Uniformes,-9.953,-78.8664
+S_100,Ayacucho,Calzado Industrial,-11.5591,-73.4163
+T_1,Puno,Extintores,-3.5973,-76.8426
+T_2,Pucallpa,Sistemas de Riego,-4.9783,-69.9767
+T_3,Cajamarca,Fertilizantes,-11.8613,-70.6893
+T_4,Trujillo,Semillas,-5.1737,-71.9864
+T_5,Cusco,Agroquimicos,-3.5438,-72.0731
+T_6,Piura,Maquinaria Ligera,-3.3489,-76.8271
+T_7,Miraflores,Generadores,-17.0872,-72.291
+T_8,Cercado de Lima,Compresoras,-14.4426,-80.1595
+T_9,Chiclayo,Bombas de Agua,-7.2042,-79.7532
+T_10,Cercado de Lima,Telas,-3.1764,-70.3026
+T_11,Iquitos,Hilos,-15.4271,-78.1141
+T_12,Ayacucho,Cuero,-9.7865,-74.3814
+T_13,Cercado de Lima,Artesanias,-7.1839,-77.3357
+T_14,Puno,Joyeria,-7.4573,-71.8111
+T_15,Chimbote,Souvenirs,-3.4522,-76.1946
+T_16,Miraflores,Articulos de Fiesta,-14.3927,-74.1185
+T_17,Tarapoto,Papel Impreso,-6.5133,-69.7109
+T_18,Piura,Carton,-3.8176,-76.6522
+T_19,Ica,Ceramica,-3.7582,-80.8729
+T_20,Chiclayo,Bicicletas,-3.6454,-78.5607
+T_21,Ica,Colchones,-11.9503,-75.8675
+T_22,Puno,Electrodomesticos,-17.2243,-71.1696
+T_23,Huaraz,Repuestos Automotrices,-11.3598,-74.6163
+T_24,Chiclayo,Herramientas,-7.5467,-80.7994
+T_25,Cajamarca,Juguetes,-17.1865,-77.9216
+T_26,Cusco,Ropa Deportiva,-6.4472,-69.0881
+T_27,Cusco,Calzado,-7.4356,-69.2211
+T_28,Cajamarca,Electronica de Consumo,-8.6688,-71.9869
+T_29,Tarapoto,Libros,-8.9739,-70.646
+T_30,Iquitos,Muebles de Oficina,-11.2075,-76.3423
+T_31,Puno,Instrumentos Musicales,-14.0957,-69.8907
+T_32,Pucallpa,Camaras,-10.1618,-72.1403
+T_33,Arequipa,Celulares,-11.9636,-78.9427
+T_34,Ica,Linea Blanca,-5.2627,-72.2182
+T_35,Cercado de Lima,Insumos Medicos,-8.5521,-70.0164
+T_36,Cercado de Lima,Textiles,-13.5187,-73.4902
+T_37,Cajamarca,Alimentos Secos,-4.4599,-73.0047
+T_38,Iquitos,Cereales,-15.0142,-69.2077
+T_39,Arequipa,Bebidas,-16.8276,-69.405
+T_40,Cusco,Neumaticos,-13.6876,-69.5283
+T_41,Cajamarca,Pinturas,-14.9751,-78.7711
+T_42,Huaraz,Ferreteria,-5.12,-79.7683
+T_43,Ayacucho,Iluminacion,-13.2228,-76.1049
+T_44,Huaraz,Camping,-5.9502,-78.0368
+T_45,Miraflores,Papeleria,-4.6171,-76.0162
+T_46,Tarapoto,Materiales de Construccion,-11.5916,-72.8703
+T_47,Pucallpa,Jardineria,-7.2438,-77.6396
+T_48,Chimbote,Mascotas,-7.5752,-80.6939
+T_49,Iquitos,Belleza,-10.5557,-72.4679
+T_50,Ayacucho,Relojeria,-3.9009,-71.6889
+T_51,Huaraz,Bolsos,-17.5805,-70.5712
+T_52,Piura,Lentes,-7.8381,-69.9998
+T_53,Huancayo,Arte,-16.365,-76.4295
+T_54,Piura,Pesca,-7.9466,-69.7469
+T_55,Iquitos,Baterias,-6.8376,-70.5724
+T_56,Arequipa,Computo,-7.2196,-77.1546
+T_57,Cajamarca,Audio Profesional,-14.5084,-74.4108
+T_58,Ayacucho,Seguridad Industrial,-14.2193,-78.4148
+T_59,Miraflores,Cafe,-13.5637,-79.7282
+T_60,Huancayo,Cacao,-7.9528,-76.2318
+T_61,Chiclayo,Vinos,-13.5481,-72.7041
+T_62,Chiclayo,Equipos de Gimnasio,-15.2996,-72.3728
+T_63,Huaraz,Drones,-10.6456,-73.1218
+T_64,Ica,Bicicletas Electricas,-4.4277,-73.8976
+T_65,Iquitos,Software,-9.615,-71.6979
+T_66,Cusco,Paneles Solares,-4.3848,-75.0614
+T_67,Pucallpa,Motores,-8.1498,-70.4088
+T_68,Chimbote,Quimicos,-3.8794,-79.6492
+T_69,Trujillo,Vidrios,-8.3732,-72.695
+T_70,Huaraz,Material Quirurgico,-10.9565,-73.329
+T_71,San Isidro,Medicamentos,-4.0461,-74.551
+T_72,Arequipa,Vacunas,-15.4026,-79.098
+T_73,San Isidro,Alimentos Congelados,-4.4449,-70.6502
+T_74,Cercado de Lima,Frutas,-9.7398,-74.1478
+T_75,Chiclayo,Verduras,-17.4173,-77.6278
+T_76,Miraflores,Carnicos,-7.1697,-73.0806
+T_77,Chimbote,Lacteos,-17.882,-80.1131
+T_78,Cusco,Panaderia Industrial,-3.9038,-73.7915
+T_79,Cusco,Confiteria,-5.8509,-77.2694
+T_80,Ica,Suministros Electricos,-10.548,-73.5067
+T_81,Ica,Tuberias,-7.7485,-79.0935
+T_82,Tarapoto,Griferia,-10.5801,-75.3301
+T_83,Piura,Acabados de Construccion,-8.516,-73.4226
+T_84,Huancayo,Madera,-7.7431,-79.6459
+T_85,Cusco,Acero,-6.3852,-76.236
+T_86,Huancayo,Lubricantes,-9.0319,-78.3883
+T_87,Cercado de Lima,Aditivos,-6.2103,-72.2401
+T_88,Piura,Limpieza Industrial,-4.8611,-76.3582
+T_89,Cusco,Empaques,-10.8571,-75.0398
+T_90,Huaraz,Plasticos,-11.1723,-80.694
+T_91,Puno,Fibras Opticas,-3.9082,-74.9463
+T_92,Piura,Componentes Electronicos,-6.5543,-78.8905
+T_93,Iquitos,Robótica Educativa,-14.2202,-75.1343
+T_94,Trujillo,Detergentes,-9.0114,-69.7194
+T_95,San Isidro,Cuidado Personal,-4.6765,-71.4925
+T_96,Arequipa,Suplementos,-5.6824,-74.7111
+T_97,Miraflores,Equipos Dentales,-12.5848,-75.6489
+T_98,Iquitos,Laboratorio,-13.1114,-75.6723
+T_99,Piura,Seguridad Vial,-12.6738,-71.8187
+T_100,Chimbote,Uniformes,-3.2104,-75.2741
