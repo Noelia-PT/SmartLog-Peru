@@ -291,18 +291,15 @@ if menu == "Inicio":
     algoritmos avanzados de búsqueda y teoría de grafos.
 
     ### Funcionalidades
-
-    --Búsqueda de rutas óptimas
-
-    --Selección automática de almacenes
-
-    --Optimización de recorridos
-
-    --Visualización interactiva de grafos
-
-    --Comparación de algoritmos
-
-    --Análisis de especialidades logísticas
+                
+    El sistema destaca por su capacidad de realizar una 
+    búsqueda de rutas óptimas y lograr la optimización 
+    de recorridos, lo que permite maximizar la eficiencia 
+    en los traslados y reducir tiempos de ejecución. 
+    Además, integra una herramienta de visualización 
+    interactiva de grafos que facilita la interpretación 
+    de las redes y conexiones de forma dinámica y visual.
+                
     """)
 
     st.image(
