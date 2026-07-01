@@ -15,10 +15,6 @@ st.set_page_config(
     layout="wide"
 )
 
-st.logo(
-    "https://cdn-icons-png.flaticon.com/512/3448/3448339.png"
-)
-
 st.markdown("""
 <style>
 
