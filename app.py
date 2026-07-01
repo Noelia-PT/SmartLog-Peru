@@ -71,7 +71,7 @@ nodos, aristas = cargar_datos()
 @st.cache_resource
 def construir_grafo(nodos, aristas):
 
-    G = nx.DiGraph()
+    G = nx.Graph()
 
     for _, fila in nodos.iterrows():
 
@@ -250,8 +250,7 @@ def siguiente_especialidad_mas_cercana(
                     mejor_nodo = nodo
                     mejor_especialidad = especialidad
 
-            except:
-
+            except nx.NetworkXNoPath:
                 pass
 
     return (
