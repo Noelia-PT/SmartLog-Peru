@@ -106,7 +106,7 @@ def heuristica(G, a, b):
     yb = G.nodes[b]["y"]
 
     #distancia Manhattan 
-    return abs(xa - xb) + abs(ya - yb)
+    return (abs(xa - xb) + abs(ya - yb))*100
 
 def a_estrella(G, s, t):
 

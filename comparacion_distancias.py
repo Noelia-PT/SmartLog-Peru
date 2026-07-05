@@ -30,13 +30,13 @@ ARCHIVO_NODOS = "Dataset_Nodos.csv"
 def heuristica_manhattan(coords, u, t):
     xu, yu = coords[u]
     xt, yt = coords[t]
-    return abs(xu - xt) + abs(yu - yt)
+    return (abs(xu - xt) + abs(yu - yt))*100
  
  
 def heuristica_euclidiana(coords, u, t):
     xu, yu = coords[u]
     xt, yt = coords[t]
-    return math.sqrt((xu - xt) ** 2 + (yu - yt) ** 2)
+    return (math.sqrt((xu - xt) ** 2 + (yu - yt) ** 2))*100
  
  
 def heuristica_haversine(coords, u, t):
