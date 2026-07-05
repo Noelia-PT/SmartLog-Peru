@@ -4,6 +4,8 @@ import networkx as nx
 from pyvis.network import Network
 import tempfile
 import time
+import heapq as hq
+import math
 
 # texto para ejecutar el proyecto "streamlit run app.py"
 # ==========================
@@ -56,7 +58,7 @@ def cargar_datos():
     )
 
     aristas = pd.read_csv(
-        "Dataset_aristas.csv",
+        "Dataset_aristas_Manhattan.csv",
         sep=","
     )
 
@@ -105,6 +107,70 @@ def heuristica(G, a, b):
 
     #distancia Manhattan 
     return abs(xa - xb) + abs(ya - yb)
+
+def a_estrella(G, s, t):
+
+    visited = set()
+    path = {}
+    cost = {s: 0}
+
+    # (f, nodo) en la cola de prioridad, con f = g + h
+    pqueue = [(heuristica(G, s, t), s)]
+
+    while pqueue:
+
+        f_u, u = hq.heappop(pqueue)
+
+        if u in visited:
+            continue
+
+        visited.add(u)
+
+        if u == t:
+            break
+
+        for v in G.neighbors(u):
+
+            if v not in visited:
+
+                w = G[u][v]["weight"]
+                g = cost[u] + w
+
+                if g < cost.get(v, math.inf):
+
+                    cost[v] = g
+                    path[v] = u
+
+                    f = g + heuristica(G, v, t)
+                    hq.heappush(pqueue, (f, v))
+
+    return path, cost
+
+
+def reconstruir_camino(path, s, t):
+
+    if t != s and t not in path:
+        return None
+
+    camino = [t]
+    actual = t
+
+    while actual != s:
+        actual = path[actual]
+        camino.append(actual)
+
+    camino.reverse()
+    return camino
+
+#funcion para cuando solo se necesita el costo y no la ruta 
+def a_estrella_costo(G, s, t):
+    _, cost = a_estrella(G, s, t)
+    return cost.get(t, math.inf)
+
+#funcion para cuando se necesita la ruta complet 
+def a_estrella_ruta(G, s, t):
+    path, _ = a_estrella(G, s, t)
+    return reconstruir_camino(path, s, t)
 
 def visualizar_ruta(G, ruta, almacenes_objetivo=None):
 
@@ -192,13 +258,10 @@ def buscar_almacen_mas_cercano(
 
         try:
 
-            costo = nx.astar_path_length(
+            costo = a_estrella_costo(
                 G,
                 origen,
-                nodo,
-                heuristic=lambda x, y:
-                heuristica(G, x, y),
-                weight="weight"
+                nodo
             )
 
             if costo < mejor_costo:
@@ -235,13 +298,10 @@ def siguiente_especialidad_mas_cercana(
 
             try:
 
-                costo = nx.astar_path_length(
+                costo = a_estrella_costo(
                     G,
                     origen,
-                    nodo,
-                    heuristic=lambda x, y:
-                    heuristica(G, x, y),
-                    weight="weight"
+                    nodo
                 )
 
                 if costo < mejor_costo:
@@ -318,7 +378,7 @@ if menu == "Inicio":
 
     c3.metric(
         "Componentes",
-        nx.number_weakly_connected_components(G)
+        nx.number_connected_components(G)
     )
 
     c4.metric(
@@ -432,13 +492,10 @@ elif menu == "Buscar Ruta":
 
                 st.stop()
 
-            tramo = nx.astar_path(
+            tramo = a_estrella_ruta(
                 G,
                 actual,
-                siguiente_nodo,
-                heuristic=lambda x, y:
-                heuristica(G, x, y),
-                weight="weight"
+                siguiente_nodo
             )
 
             if len(ruta_total) == 0:
